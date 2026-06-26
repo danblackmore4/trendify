@@ -55,11 +55,32 @@ def identify_clothing(image_url: str) -> str:
                     {
                         "type": "text",
                         "text": (
-                            "Identify all clothing items visible in this image. "
-                            "For each item provide: garment type, colour, and style details. "
-                            "Return the result as a JSON array of objects with keys "
-                            '"garment_type", "colour", and "style_details". '
-                            'If no clothing is visible, return the string "no clothing detected".'
+                            "You are a fashion analyst. Identify every clothing item and pair of shoes visible in this image. "
+                            "Return a JSON array where each element has exactly these keys:\n\n"
+                            '  "category"       — one of: top, bottom, dress, outerwear, shoes, accessory\n'
+                            '  "exact_type"     — the most specific garment name possible, e.g. "cargo trousers", '
+                            '"wide-leg linen trousers", "oversized graphic tee", "fitted ribbed crop top", '
+                            '"relaxed button-down shirt", "mini wrap skirt", "chunky platform loafers", '
+                            '"pointed-toe kitten heels", "distressed straight-leg jeans"\n'
+                            '  "colour"         — the precise shade, never a generic colour name. '
+                            'Use descriptors like "washed light blue", "camel", "off-white", "sage green", '
+                            '"chocolate brown", "dusty rose", "slate grey", "ecru", "cobalt blue"\n'
+                            '  "fit"            — for tops and bottoms: e.g. "oversized", "slim", "straight", '
+                            '"wide-leg", "cropped", "fitted", "relaxed", "baggy", "tapered", "three-quarter length". '
+                            'For shoes and accessories use null\n'
+                            '  "neckline"       — for tops only: e.g. "crew neck", "v-neck", "scoop neck", '
+                            '"collared", "turtleneck", "off-shoulder", "square neck". '
+                            'For all other categories use null\n'
+                            '  "distinctive_features" — a list of strings for any notable details, e.g. '
+                            '["high-waisted", "pleated front", "side pockets"], '
+                            '["distressed hem", "raw-edge cuffs"], '
+                            '["chunky sole", "square toe"], '
+                            '["broderie anglaise trim", "puff sleeves"]. '
+                            'Empty list if nothing distinctive\n\n'
+                            "Be as specific as someone would need to search for this item on ASOS and find it. "
+                            "Include every item that is at least partially visible. "
+                            'If no clothing or shoes are visible at all, return the string "no clothing detected" '
+                            "instead of a JSON array."
                         ),
                     },
                     {
@@ -69,7 +90,7 @@ def identify_clothing(image_url: str) -> str:
                 ],
             }
         ],
-        "max_tokens": 1024,
+        "max_tokens": 2048,
     }
 
     request = urllib.request.Request(
