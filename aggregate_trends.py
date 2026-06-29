@@ -10,6 +10,22 @@ def counter_to_ranked(counter: Counter, limit: int = 10) -> list[dict]:
     return [{"value": v, "count": c} for v, c in counter.most_common(limit)]
 
 
+def collect_post_items(post: dict) -> dict[str, dict]:
+    """Return one item per garment_type for this post (first occurrence across all images)."""
+    seen: dict[str, dict] = {}
+    for image in post.get("images", []):
+        clothing = image.get("clothing", [])
+        if not isinstance(clothing, list):
+            continue
+        for item in clothing:
+            if not isinstance(item, dict):
+                continue
+            garment_type = (item.get("garment_type") or "").strip().lower()
+            if garment_type and garment_type not in seen:
+                seen[garment_type] = item
+    return seen
+
+
 def build_trends(posts: list[dict]) -> tuple[dict, list[dict]]:
     type_counts: Counter = Counter()
     type_colours: dict[str, Counter] = defaultdict(Counter)
@@ -18,28 +34,18 @@ def build_trends(posts: list[dict]) -> tuple[dict, list[dict]]:
     total_items = 0
 
     for post in posts:
-        for image in post.get("images", []):
-            clothing = image.get("clothing", [])
-            if not isinstance(clothing, list):
-                continue
-            for item in clothing:
-                if not isinstance(item, dict):
-                    continue
+        # Deduplicate within this post before counting
+        for garment_type, item in collect_post_items(post).items():
+            colour = (item.get("colour") or "").strip().lower()
+            style_details = (item.get("style_details") or "").strip().lower()
 
-                garment_type = (item.get("garment_type") or "").strip().lower()
-                colour = (item.get("colour") or "").strip().lower()
-                style_details = (item.get("style_details") or "").strip().lower()
+            total_items += 1
+            type_counts[garment_type] += 1
 
-                if not garment_type:
-                    continue
-
-                total_items += 1
-                type_counts[garment_type] += 1
-
-                if colour:
-                    type_colours[garment_type][colour] += 1
-                if style_details:
-                    type_styles[garment_type][style_details] += 1
+            if colour:
+                type_colours[garment_type][colour] += 1
+            if style_details:
+                type_styles[garment_type][style_details] += 1
 
     # All garment types land in a single uncategorised bucket since the data
     # has no category field — sorted by count descending

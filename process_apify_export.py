@@ -181,6 +181,9 @@ def main():
             if "error" in image_result:
                 print(f"\n  Error — {image_result['image_url']}: {image_result['error']}")
 
+            post = post_results[post_idx]
+            image_result["likes_count"] = post["likes_count"]
+            image_result["follower_count"] = post["follower_count"]
             post_results[post_idx]["images"][img_idx] = image_result
 
             with counter_lock:

@@ -1,212 +1,167 @@
 {
   "total_posts_analysed": 10,
-  "total_items_analysed": 109,
+  "total_items_analysed": 106,
   "garment_types": [
     {
-      "garment_type": "fitted short-sleeve top",
-      "count": 2,
-      "top_colours": [
-        {
-          "value": "charcoal",
-          "count": 1
-        },
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "round neck, slightly cropped hem",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "textured tie-front blouse",
-      "count": 2,
+      "garment_type": "wide-leg trousers",
+      "count": 3,
       "top_colours": [
         {
           "value": "off-white",
-          "count": 2
+          "count": 3
         }
       ],
       "top_styles": [
         {
-          "value": "v-neck, long sleeves, relaxed fit",
-          "count": 1
-        },
-        {
-          "value": "deep v-neck, oversized fit, long sleeves",
+          "value": "high-waisted, relaxed fit",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "fitted cotton t-shirt",
-      "count": 2,
+      "garment_type": "pointed-toe pumps",
+      "count": 3,
       "top_colours": [
         {
-          "value": "white",
+          "value": "olive",
           "count": 1
         },
         {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crew neckline, short sleeves",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "embossed leather belt",
-      "count": 2,
-      "top_colours": [
-        {
-          "value": "chocolate brown",
-          "count": 2
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crocodile texture, gold buckle",
+          "value": "matte black",
           "count": 1
         },
-        {
-          "value": "gold buckle, crocodile texture",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "pointed-toe flats",
-      "count": 2,
-      "top_colours": [
         {
           "value": "black",
-          "count": 1
-        },
-        {
-          "value": "charcoal",
           "count": 1
         }
       ],
       "top_styles": []
     },
     {
-      "garment_type": "draped maxi dress",
+      "garment_type": "knit bucket hat",
       "count": 2,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        },
+        {
+          "value": "taupe",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "high-waisted trousers",
+      "count": 2,
+      "top_colours": [
+        {
+          "value": "crisp white",
+          "count": 2
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "pleated front, tailored fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted short-sleeve t-shirt",
+      "count": 2,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        },
+        {
+          "value": "bright white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, minimalist design",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "woven straw tote bag",
+      "count": 2,
+      "top_colours": [
+        {
+          "value": "natural beige",
+          "count": 1
+        },
+        {
+          "value": "natural",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "large braided pattern, round handles",
+          "count": 1
+        },
+        {
+          "value": "textured straw material, short handles",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted long-sleeve top",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "charcoal",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, slightly cropped hem",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "knit pencil skirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "charcoal",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "high-waisted, bodycon fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "silk scarf",
+      "count": 1,
       "top_colours": [
         {
           "value": "light grey",
           "count": 1
-        },
-        {
-          "value": "camel",
-          "count": 1
         }
       ],
       "top_styles": [
         {
-          "value": "flowing fit, shawl collar",
-          "count": 1
-        },
-        {
-          "value": "v-neck, batwing sleeves, front draping",
+          "value": "wrapped as a headscarf",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "pointed-toe kitten heels",
-      "count": 2,
-      "top_colours": [
-        {
-          "value": "olive green",
-          "count": 1
-        },
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "slip-on style, low heel",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "high-waisted pleated trousers",
-      "count": 2,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        },
-        {
-          "value": "crisp white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "tailored fit, pressed creases",
-          "count": 1
-        },
-        {
-          "value": "belt loops, tailored fit, pleated front",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted sleeveless top",
-      "count": 2,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 2
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "scoop neckline",
-          "count": 1
-        },
-        {
-          "value": "v-neckline",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "wide-leg trousers",
-      "count": 2,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 2
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "high-waisted",
-          "count": 1
-        },
-        {
-          "value": "lightweight fabric, relaxed fit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted knit sweater",
+      "garment_type": "fitted ribbed knit top",
       "count": 1,
       "top_colours": [
         {
@@ -216,51 +171,29 @@
       ],
       "top_styles": [
         {
-          "value": "crew neck, elbow-length sleeves",
+          "value": "short sleeves, crew neck, cropped length",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "maxi skirt",
+      "garment_type": "high-waisted knit skirt",
       "count": 1,
       "top_colours": [
         {
           "value": "charcoal",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "silk headscarf",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "light taupe",
           "count": 1
         }
       ],
       "top_styles": [
         {
-          "value": "tied at the back, stitched pattern",
+          "value": "fitted silhouette",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "bodycon midi skirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "charcoal",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "printed headscarf",
+      "garment_type": "patterned headscarf",
       "count": 1,
       "top_colours": [
         {
@@ -270,7 +203,7 @@
       ],
       "top_styles": [
         {
-          "value": "geometric pattern",
+          "value": "geometric print",
           "count": 1
         }
       ]
@@ -284,10 +217,15 @@
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_styles": [
+        {
+          "value": "strapless, fitted, ribbed texture",
+          "count": 1
+        }
+      ]
     },
     {
-      "garment_type": "loose-fit cotton blouse",
+      "garment_type": "textured tie-front blouse",
       "count": 1,
       "top_colours": [
         {
@@ -297,818 +235,13 @@
       ],
       "top_styles": [
         {
-          "value": "v-neck, front tie closure, flared sleeves",
+          "value": "v-neck, bell sleeves, relaxed fit",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "wide-leg denim jeans",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "ecru",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "high-waisted, relaxed fit, ankle-length",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "textured bucket hat",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "woven slip-on shoes",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "slightly pointed toe",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "oversized white t-shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crew neck, short sleeves",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "chunky knit cardigan",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "draped over shoulders",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "relaxed yellow sweatpants",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "butter yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "drawstring waist, straight leg",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "knit bucket hat",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "ribbed tube top",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "butter yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "high-waisted drawstring trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "butter yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "relaxed fit, elastic waistband with drawcord",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "oversized knit sweater",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crew neckline, ribbed texture, dropped shoulders",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "high-waisted wide-leg trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "loose-knit cream sweater",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "cream",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crew neckline, relaxed fit, dropped shoulder",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "white high-waisted trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "straight-leg, hidden closure",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted black t-shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "short sleeves, crew neck",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "high-waisted wide-leg jeans",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "medium blue wash",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "silk scarf",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "draped over shoulder",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "ribbed strapless top",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "pale yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "high-waisted lounge trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "pale yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "drawstring waist, relaxed fit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "ribbed knit sweater",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "oversized fit, crew neck, long sleeves",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "relaxed cotton joggers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "pale yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "high-waisted, elasticated drawstring waistband",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "sleeveless fitted midi dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "boat neckline, simple silhouette",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "embossed leather loafers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "dark brown",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "square toe, low heel",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "tailored open-front blazer",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "chocolate brown",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "wide-leg tailored trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "light grey",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "long-sleeve collared shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "light blue",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "fitted white long-sleeve shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "classic dress shirt collar, buttoned cuffs",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "lace-trim open-front cover-up",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "semi-sheer fabric, intricate lace detailing, loose fit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "soft midi skirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "straight fit, mid-calf length",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "croc-embossed leather loafers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "almond toe, flat heel",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted sleeveless midi dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "scoop neckline, seam detailing, knee-length hem",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "ribbed fitted t-shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crew neck, short sleeves",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "pleated high-waisted trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "bright white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "tailored fit, side pockets",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "sheer lace trim shawl",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "intricate lace patterns, draped over shoulders",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted cotton tank top",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "straight-leg trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "woven straw tote bag",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "natural beige",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "basket weave pattern, top handle",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "draped midi dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "mustard yellow",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "v-neck, gathered detail, loose fit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "pointed-toe stiletto heels",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "sleek design",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted black satin slip dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "spaghetti straps, midi length",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "chunky black derby shoes",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "sleek red heeled sandals",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "red",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "ankle strap, stiletto heel",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "tailored black suit jacket",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "single-breasted, notched lapel",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "tailored black suit trousers",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "white dress shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "standard collar",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "crochet knit cloche hat",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "beige",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "open weave",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "spaghetti strap midi dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "tailored suit jacket",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "dark grey",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "single-breasted with notch lapels",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "button-up shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "classic collar",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "polka dot tie",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "white polka dots",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "crisp cotton button-up shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "classic collar, relaxed fit, long sleeves",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "croc-effect leather belt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "chestnut brown",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "gold square buckle",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "oversized button-up shirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "crisp white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "collared, long sleeves, relaxed fit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "textured leather belt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "dark brown",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crocodile pattern, gold-tone buckle",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "fitted mini skirt",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "fitted off-white short-sleeve top",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "off-white",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "crew neck, slightly cropped",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "off-white elastic-waist shorts",
+      "garment_type": "wide-leg jeans",
       "count": 1,
       "top_colours": [
         {
@@ -1124,6 +257,761 @@
       ]
     },
     {
+      "garment_type": "bucket hat",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "woven sandals",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "open-toe, flat sole",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted white t-shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, short sleeves",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "light yellow drawstring joggers",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "light yellow",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "elastic waist, relaxed fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "knit cream sweater",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "cream",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "draped over shoulders, ribbed texture",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "textured open-front tie blouse",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "long sleeves, loose fit, v-neck",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "ribbed strapless top",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "pale yellow",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "fitted, crop length",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "relaxed drawstring trousers",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "pale yellow",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "elastic waistband, straight-leg",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "oversized textured tie-front blouse",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "v-neck, long sleeves, open-front with tie closures",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "loose-knit sweater",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, dropped shoulder, ribbed cuffs",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted black t-shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, short sleeves",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "wide-leg medium-wash jeans",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "medium-wash blue",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "high-waisted, classic five-pocket design",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "satin cream scarf",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "cream",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "high-waisted sweatpants",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "pale yellow",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "drawstring waist, relaxed fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "relaxed ribbed sweater",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "cream",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, long sleeves, oversized fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "high-waisted lounge pants",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "buttery yellow",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "drawstring waist, relaxed fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "sleeveless midi dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "boat neckline, fitted bodice, straight hem",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "embossed leather loafers",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "dark brown",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "square toe, flat sole, slip-on style",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "tailored coat",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "chocolate brown",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "collarless, mid-thigh length, buttonless front",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted white shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "long sleeves, classic cuff",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "lace trim shawl",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "intricate lace pattern, draped style",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "striped sleeveless top",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "narrow vertical stripes, deep scoop neckline",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "sleeveless fitted dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "round neckline, knee-length, simple silhouette",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "high-waisted pleated shorts",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "belt loops, tailored fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "croc-embossed leather belt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "chocolate brown",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "gold-tone buckle",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "sheer lace shawl",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "intricate lace pattern, draped style",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted cotton top",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "white",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "draped maxi dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "muted beige",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "batwing sleeves, wrap style, thigh-high slit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "pointed-toe flats",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "structured clutch",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "metallic accents",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "pointed-toe stiletto heels",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "draped long kaftan dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "camel",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "v-neck, batwing sleeves, front slit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "sleek clutch bag",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "fitted black slip dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "spaghetti straps, midi length",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "classic black suit",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "tailored fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "black formal shoes",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "leather, pointed toe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "red stiletto sandals",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "red",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "ankle strap, open toe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "spaghetti strap slip dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "v-neckline, satin fabric",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "single-breasted suit jacket",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "dark grey",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "notched lapels, pocket on left chest",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "classic white dress shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "white",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "polka dot tie",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black with white dots",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "narrow width",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "crochet cloche hat",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "beige",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "floral appliqué, tassel details",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted long-sleeve shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "crisp white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "classic collar, button-up front",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "sleek leather belt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "chocolate brown",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "gold-tone buckle",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted crew-neck short-sleeve top",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "high-waisted fitted mini skirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "pointed-toe kitten heels",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "minimalist design",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted sleeveless black top",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "scoop neckline",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "fitted cotton t-shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crew neck, short sleeves, cropped hem",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "high-waisted cotton shorts",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "elastic waistband, relaxed fit",
+          "count": 1
+        }
+      ]
+    },
+    {
       "garment_type": "ribbed deep v-neck top",
       "count": 1,
       "top_colours": [
@@ -1134,13 +1022,13 @@
       ],
       "top_styles": [
         {
-          "value": "deep v-neckline, ribbed texture",
+          "value": "deep v-neckline, textured fabric, sleeveless",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "sleeveless v-neck top",
+      "garment_type": "sleeveless knit top",
       "count": 1,
       "top_colours": [
         {
@@ -1150,13 +1038,13 @@
       ],
       "top_styles": [
         {
-          "value": "ribbed texture, deep v-neckline",
+          "value": "v-neck, textured fabric",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "sleeveless textured top",
+      "garment_type": "knit sleeveless top",
       "count": 1,
       "top_colours": [
         {
@@ -1172,7 +1060,7 @@
       ]
     },
     {
-      "garment_type": "knit v-neck sleeveless top",
+      "garment_type": "fitted cotton shirt",
       "count": 1,
       "top_colours": [
         {
@@ -1180,10 +1068,63 @@
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_styles": [
+        {
+          "value": "classic collar, button-down front",
+          "count": 1
+        }
+      ]
     },
     {
-      "garment_type": "fitted white shirt",
+      "garment_type": "fitted cotton button-up shirt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "classic collar, long sleeves, button-up front",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "pleated cotton trousers",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "high-waisted, straight-leg, belt loops",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "croco-embossed leather belt",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "chocolate brown",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "square buckle, textured design",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "classic cotton button-up shirt",
       "count": 1,
       "top_colours": [
         {
@@ -1193,39 +1134,39 @@
       ],
       "top_styles": [
         {
-          "value": "classic collar, buttoned front",
+          "value": "button-down collar, long sleeves, relaxed fit",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "fitted button-up shirt",
+      "garment_type": "tailored high-waisted trousers",
       "count": 1,
       "top_colours": [
         {
-          "value": "off-white",
+          "value": "crisp white",
           "count": 1
         }
       ],
       "top_styles": [
         {
-          "value": "collared, long sleeves, slightly oversized fit",
+          "value": "pleated front, straight-leg, belt loops",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "high-waisted trousers",
+      "garment_type": "embossed leather belt",
       "count": 1,
       "top_colours": [
         {
-          "value": "off-white",
+          "value": "dark brown",
           "count": 1
         }
       ],
       "top_styles": [
         {
-          "value": "pleated, relaxed fit, with belt loops",
+          "value": "gold buckle, crocodile texture, adjustable length",
           "count": 1
         }
       ]
@@ -1241,13 +1182,13 @@
       ],
       "top_styles": [
         {
-          "value": "button-down, long sleeves, classic collar",
+          "value": "classic collar, long sleeves, button-up front",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "leather sandals",
+      "garment_type": "strappy heeled sandals",
       "count": 1,
       "top_colours": [
         {
@@ -1263,7 +1204,23 @@
       ]
     },
     {
-      "garment_type": "sleeveless layered maxi dress",
+      "garment_type": "sleeveless layered silk dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "ivory",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "asymmetrical hem, flowy silhouette",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "cropped wide-leg trousers",
       "count": 1,
       "top_colours": [
         {
@@ -1273,7 +1230,39 @@
       ],
       "top_styles": [
         {
-          "value": "asymmetrical layers with a flowy scarf detail",
+          "value": "sheer fabric, relaxed fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "peep-toe platform heels",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "black",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "high heel, suede texture",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "flowy layered maxi dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "off-white",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "sleeveless, asymmetrical hem",
           "count": 1
         }
       ]
@@ -1289,13 +1278,13 @@
       ],
       "top_styles": [
         {
-          "value": "block heel with a simple slip-on design",
+          "value": "suede texture, slip-on style",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "sleeveless top",
+      "garment_type": "sleeveless wrap top",
       "count": 1,
       "top_colours": [
         {
@@ -1305,29 +1294,13 @@
       ],
       "top_styles": [
         {
-          "value": "asymmetric neckline, relaxed fit",
+          "value": "asymmetrical neckline, draped fabric",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "structured handbag",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "cream",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "ostrich texture, top handle",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "sleeveless asymmetrical top",
+      "garment_type": "sleeveless layered top",
       "count": 1,
       "top_colours": [
         {
@@ -1337,13 +1310,13 @@
       ],
       "top_styles": [
         {
-          "value": "loose fit, draped design",
+          "value": "asymmetrical neckline, loose fit",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "loose-fit wide-leg trousers",
+      "garment_type": "sleeveless v-neck top",
       "count": 1,
       "top_colours": [
         {
@@ -1353,7 +1326,7 @@
       ],
       "top_styles": [
         {
-          "value": "lightweight fabric, mid-rise",
+          "value": "draped fit, sleeveless design",
           "count": 1
         }
       ]
@@ -1370,87 +1343,17 @@
       "top_styles": []
     },
     {
-      "garment_type": "sleeveless draped top",
+      "garment_type": "oversized light beige kaftan",
       "count": 1,
       "top_colours": [
         {
-          "value": "off-white",
+          "value": "light beige",
           "count": 1
         }
       ],
       "top_styles": [
         {
-          "value": "deep v-neck, relaxed fit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "round-toe flats",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "black",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "oversized cream cape dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "cream",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "textured fabric, short sleeves, ankle-length hem",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "crochet brown cloche hat",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "brown",
-          "count": 1
-        }
-      ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "textured brown ballet flats",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "brown",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "rounded toe, no heel",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "garment_type": "oversized textured maxi dress",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "oatmeal",
-          "count": 1
-        }
-      ],
-      "top_styles": [
-        {
-          "value": "cape-style sleeves, round neckline",
+          "value": "loose fit, elbow-length sleeves",
           "count": 1
         }
       ]
@@ -1464,26 +1367,47 @@
           "count": 1
         }
       ],
-      "top_styles": []
-    },
-    {
-      "garment_type": "large leather clutch bag",
-      "count": 1,
-      "top_colours": [
-        {
-          "value": "olive brown",
-          "count": 1
-        }
-      ],
       "top_styles": [
         {
-          "value": "zip closure, wrist strap",
+          "value": "crochet texture, close-fitting",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "loose-fitting textured kaftan",
+      "garment_type": "textured ballet flats",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "chocolate brown",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "rounded toe, embossed texture",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "loose woven maxi coat",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "ecru",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "wide half sleeves, open front",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "ribbed midi dress",
       "count": 1,
       "top_colours": [
         {
@@ -1493,13 +1417,56 @@
       ],
       "top_styles": [
         {
-          "value": "floor-length, wide sleeves, open-front design",
+          "value": "slim fit, visible beneath coat",
           "count": 1
         }
       ]
     },
     {
-      "garment_type": "crocheted cloche hat",
+      "garment_type": "textured slip-on flats",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "chocolate brown",
+          "count": 1
+        }
+      ],
+      "top_styles": []
+    },
+    {
+      "garment_type": "structured clutch bag",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "taupe",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "zip closure",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "oversized cream kaftan dress",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "cream",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "wide sleeves, floor-length, relaxed fit",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "chunky taupe crochet bucket hat",
       "count": 1,
       "top_colours": [
         {
@@ -1508,6 +1475,54 @@
         }
       ],
       "top_styles": []
+    },
+    {
+      "garment_type": "oversized olive leather clutch",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "olive",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "zip closure, wrist strap, minimalist design",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "oversized cream cape",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "cream",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "draped fit, short sleeves",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "garment_type": "textured beige bucket hat",
+      "count": 1,
+      "top_colours": [
+        {
+          "value": "beige",
+          "count": 1
+        }
+      ],
+      "top_styles": [
+        {
+          "value": "crocheted texture",
+          "count": 1
+        }
+      ]
     }
   ]
 }
