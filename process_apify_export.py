@@ -14,6 +14,7 @@ load_dotenv()
 
 INPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "apify_export.json")
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "clothing_results.json")
+INFLUENCERS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "influencers.json")
 MAX_WORKERS = 3
 RETRY_DELAYS = [5, 10, 20]  # seconds to wait before each successive retry
 
@@ -127,7 +128,11 @@ def main():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         posts = json.load(f)
 
+    with open(INFLUENCERS_FILE, "r", encoding="utf-8") as f:
+        influencers = json.load(f)
+
     print(f"Loaded {len(posts)} posts from {INPUT_FILE}")
+    print(f"Loaded {len(influencers)} influencers from {INFLUENCERS_FILE}")
 
     # Separate videos and build a flat work list of (image_url, post_metadata)
     # so every image is an independent unit of work for the thread pool.
@@ -144,8 +149,11 @@ def main():
         if not image_urls:
             continue
 
+        username = extract_username(post)
         post_results[i] = {
-            "username": extract_username(post),
+            "username": username,
+            "follower_count": influencers.get(username.lower()),
+            "likes_count": post.get("likesCount"),
             "post_url": post.get("url") or post.get("shortCode", ""),
             "timestamp": post.get("timestamp") or post.get("taken_at_timestamp") or "",
             "images": [None] * len(image_urls),
