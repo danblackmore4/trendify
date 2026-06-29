@@ -55,29 +55,33 @@ def identify_clothing(image_url: str) -> str:
                     {
                         "type": "text",
                         "text": (
-                            "You are a fashion analyst. Identify every clothing item and pair of shoes visible in this image. "
-                            "Return a JSON array where each element has exactly these keys:\n\n"
-                            '  "category"       — one of: top, bottom, dress, outerwear, shoes, accessory\n'
-                            '  "exact_type"     — the most specific garment name possible, e.g. "cargo trousers", '
-                            '"wide-leg linen trousers", "oversized graphic tee", "fitted ribbed crop top", '
-                            '"relaxed button-down shirt", "mini wrap skirt", "chunky platform loafers", '
-                            '"pointed-toe kitten heels", "distressed straight-leg jeans"\n'
-                            '  "colour"         — the precise shade, never a generic colour name. '
-                            'Use descriptors like "washed light blue", "camel", "off-white", "sage green", '
-                            '"chocolate brown", "dusty rose", "slate grey", "ecru", "cobalt blue"\n'
-                            '  "fit"            — for tops and bottoms: e.g. "oversized", "slim", "straight", '
-                            '"wide-leg", "cropped", "fitted", "relaxed", "baggy", "tapered", "three-quarter length". '
-                            'For shoes and accessories use null\n'
-                            '  "neckline"       — for tops only: e.g. "crew neck", "v-neck", "scoop neck", '
-                            '"collared", "turtleneck", "off-shoulder", "square neck". '
-                            'For all other categories use null\n'
-                            '  "distinctive_features" — a list of strings for any notable details, e.g. '
-                            '["high-waisted", "pleated front", "side pockets"], '
-                            '["distressed hem", "raw-edge cuffs"], '
-                            '["chunky sole", "square toe"], '
-                            '["broderie anglaise trim", "puff sleeves"]. '
-                            'Empty list if nothing distinctive\n\n'
-                            "Be as specific as someone would need to search for this item on ASOS and find it. "
+                            "You are a fashion analyst helping to identify clothing for trend tracking. "
+                            "Identify every clothing item and pair of shoes visible in this image. "
+                            "Return a JSON array where each element has exactly these three keys:\n\n"
+                            '  "garment_type"  — always combine fit + fabric + garment name into a single specific phrase. '
+                            "Never use bare generic terms like 'top', 'pants', 'shoes', 'jacket', 'dress'. "
+                            "Always be specific enough that someone could search this phrase on ASOS and find the item. "
+                            "Examples of good values: "
+                            '"oversized linen shirt", "wide-leg cream trousers", "ribbed crop top", '
+                            '"fitted mock-neck long-sleeve top", "high-waisted tailored cigarette trousers", '
+                            '"distressed straight-leg jeans", "floaty midi wrap dress", "chunky platform loafers", '
+                            '"pointed-toe kitten heels", "ballet flats", "strappy heeled sandals", '
+                            '"relaxed cotton chinos", "pleated mini skirt", "oversized blazer", '
+                            '"fitted leather biker jacket", "knit cardigan", "ruched bodycon mini dress". '
+                            "If fabric is not clearly visible, omit it rather than guessing.\n\n"
+                            '  "colour"        — always return the precise shade, never a generic colour. '
+                            "Good examples: "
+                            '"washed light blue", "camel", "off-white", "ecru", "sage green", "cobalt blue", '
+                            '"chocolate brown", "dusty rose", "slate grey", "burgundy", "mustard yellow", '
+                            '"forest green", "blush pink", "charcoal", "rust orange", "navy". '
+                            'Bad examples (too vague — never use these): "blue", "white", "brown", "green", "grey".\n\n'
+                            '  "style_details" — one sentence capturing any remaining detail useful for search: '
+                            "neckline, hem length, waistline, closures, print, texture, or notable features. "
+                            'Examples: "v-neck, cropped hem, ruched side seam", '
+                            '"high-waisted, wide-leg, subtle pinstripe", '
+                            '"square toe, block heel, ankle strap", '
+                            '"oversized fit, dropped shoulders, chest pocket". '
+                            "Leave as an empty string if nothing else is notable.\n\n"
                             "Include every item that is at least partially visible. "
                             'If no clothing or shoes are visible at all, return the string "no clothing detected" '
                             "instead of a JSON array."
