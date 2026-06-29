@@ -6,6 +6,7 @@ import base64
 import threading
 import urllib.request
 import urllib.error
+from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 from identify_clothing import identify_clothing, download_image
@@ -40,6 +41,18 @@ def call_with_retry(fn, *args):
                 continue
             raise
     raise RuntimeError(f"Failed after {len(RETRY_DELAYS)} retries due to rate limiting") from last_exc
+
+
+def parse_week(timestamp: str) -> str | None:
+    """Return 'YYYY-WW' ISO week string from an ISO 8601 timestamp, or None if unparseable."""
+    if not timestamp:
+        return None
+    try:
+        dt = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+        iso = dt.isocalendar()
+        return f"{iso[0]}-{iso[1]:02d}"
+    except ValueError:
+        return None
 
 
 def extract_username(post: dict) -> str:
@@ -150,6 +163,8 @@ def main():
             continue
 
         username = extract_username(post)
+        raw_ts = post.get("timestamp") or post.get("taken_at_timestamp") or ""
+        week = parse_week(raw_ts)
         post_results[i] = {
             "username": username,
             "follower_count": influencers.get(username.lower()),
@@ -158,7 +173,8 @@ def main():
             # Apify does not export a reposts/shares field — reposts_count will always be 0
             "reposts_count": 0,
             "post_url": post.get("url") or post.get("shortCode", ""),
-            "timestamp": post.get("timestamp") or post.get("taken_at_timestamp") or "",
+            "timestamp": raw_ts,
+            "week": week,
             "images": [None] * len(image_urls),
         }
         for j, url in enumerate(image_urls):
