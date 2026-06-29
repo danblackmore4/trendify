@@ -8,58 +8,69 @@
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/728333859_18669704818040453_3364377447961708677_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=j1nElnrv_AwQ7kNvwG35FWQ&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9bvxjFpZsVrUk2JbaxDjaKM44nzdihB2inAX9GWStznQ&oe=6A4312F7&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted long-sleeve top",
+            "garment_type": "fitted knit sweater",
             "colour": "charcoal",
-            "style_details": "crew neck, mid-length sleeves, soft fabric"
+            "style_details": "crew neck, elbow-length sleeves"
           },
           {
-            "garment_type": "headscarf",
-            "colour": "light grey",
-            "style_details": "tied at the back, smooth texture"
+            "garment_type": "maxi skirt",
+            "colour": "charcoal",
+            "style_details": ""
+          },
+          {
+            "garment_type": "silk headscarf",
+            "colour": "light taupe",
+            "style_details": "tied at the back, stitched pattern"
           }
         ]
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726868460_18669704830040453_6945558184460580137_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=Q90jcpbjbxAQ7kNvwHIbArO&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9j6_HmSJPbN4nlvr502sY-JwP5GIwiYcB7RX4EcLS52w&oe=6A4318AB&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726621884_18669704863040453_7109704913483172005_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=rtZ9nlnup4IQ7kNvwE1hbG7&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af82jEL0NNmBewyB95N3pApYr0gGAMIh8YDQfyXtiuOcSQ&oe=6A4319F6&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726827410_18669704872040453_7311557504367871059_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=qCBZM-lFf7QQ7kNvwH0Oo93&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-E6dgwoQK6mzA2ri1PTFUUt5TCgmA4dBxOupMUgQTlQw&oe=6A431076&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726827378_18669704887040453_5743532362173955799_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=QFpfIbT1-ocQ7kNvwE-KVgR&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-M8HPJJpXVwvgp3iOvoRQMDXHVaavEbGWe3JCoDW-8ng&oe=6A42F970&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726827388_18669704890040453_5520684814721863790_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=cyl7Rr1xjrQQ7kNvwG0Plh-&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-umYWLih4zZ5crYY-40p272vbAEAmxD3yjByXVKAAzkA&oe=6A42F831&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/725947046_18669704899040453_5298716963947229695_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=veIYIjag-_IQ7kNvwHVcBrO&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8PgKqB0yk1tQGGHcFahwfLobbpl3J8pQjS76MnUZJl-A&oe=6A4307BB&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726548450_18669704908040453_9130862581911278269_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=WbsXodmaHwwQ7kNvwHh_-Gv&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af88xbRHnavo_1LFNNb_XcbwnHZDDiiCtmNx5wtH_uOc9w&oe=6A42F8F2&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted charcoal short-sleeve top",
+            "garment_type": "fitted short-sleeve top",
             "colour": "charcoal",
-            "style_details": "ribbed hem, round neckline"
+            "style_details": "round neck, slightly cropped hem"
           },
           {
-            "garment_type": "high-waisted charcoal midi skirt",
+            "garment_type": "bodycon midi skirt",
             "colour": "charcoal",
-            "style_details": "fitted style, ribbed waistband"
+            "style_details": ""
           },
           {
-            "garment_type": "striped headscarf",
-            "colour": "off-white with black stripes",
-            "style_details": "tied around head"
+            "garment_type": "printed headscarf",
+            "colour": "off-white",
+            "style_details": "geometric pattern"
           }
         ]
       }
@@ -74,7 +85,7 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718935732_18666135175040453_5425568174929197112_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=DA98_5V5b3YQ7kNvwGBdnBt&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-0Ts9ZoR-Mzfu3Xq0Mgbx92WD6ED92c_jQLetQ6dfr6Q&oe=6A42EA57&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "ribbed strapless top",
+            "garment_type": "ribbed bandeau top",
             "colour": "pale yellow",
             "style_details": ""
           }
@@ -84,24 +95,24 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718965021_18666135184040453_1371996688487542744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Pdf9yYx5My0Q7kNvwH60kmp&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9c55KhY_mON3bHRr9URSu2X9ltDWsbsrXIos1Q013tQw&oe=6A4303F2&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "loose cotton blouse",
+            "garment_type": "loose-fit cotton blouse",
             "colour": "off-white",
-            "style_details": "deep v-neck, front tie closure, bell sleeves"
+            "style_details": "v-neck, front tie closure, flared sleeves"
           },
           {
-            "garment_type": "wide-leg trousers",
+            "garment_type": "wide-leg denim jeans",
+            "colour": "ecru",
+            "style_details": "high-waisted, relaxed fit, ankle-length"
+          },
+          {
+            "garment_type": "textured bucket hat",
             "colour": "off-white",
             "style_details": ""
           },
           {
-            "garment_type": "bucket hat",
-            "colour": "off-white",
-            "style_details": "textured fabric"
-          },
-          {
-            "garment_type": "woven slip-on mules",
+            "garment_type": "woven slip-on shoes",
             "colour": "black",
-            "style_details": ""
+            "style_details": "slightly pointed toe"
           }
         ]
       },
@@ -109,19 +120,19 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718576677_18666135193040453_7413904583763120880_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=A7ECsqg06zoQ7kNvwEKD54M&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_Qmc2gvkMcaGJ1OYLTWtMcQyVUa7AeaO3R-VpmrvVVGw&oe=6A4315DA&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "knit cardigan",
-            "colour": "cream",
-            "style_details": "draped over shoulders, chunky texture"
-          },
-          {
-            "garment_type": "cropped t-shirt",
-            "colour": "off-white",
+            "garment_type": "oversized white t-shirt",
+            "colour": "white",
             "style_details": "crew neck, short sleeves"
           },
           {
-            "garment_type": "drawstring lounge trousers",
+            "garment_type": "chunky knit cardigan",
+            "colour": "off-white",
+            "style_details": "draped over shoulders"
+          },
+          {
+            "garment_type": "relaxed yellow sweatpants",
             "colour": "butter yellow",
-            "style_details": "high-waisted, relaxed fit"
+            "style_details": "drawstring waist, straight leg"
           }
         ]
       },
@@ -129,7 +140,7 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718855245_18666135202040453_2204945225746093284_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=BwCaujNp4r8Q7kNvwGtt4a5&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XAUYN9N7r0XZS6OhZqzkdN5AdGhBRKmz49MVscycHCg&oe=6A430CC5&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "oversized textured tie-front blouse",
+            "garment_type": "textured tie-front blouse",
             "colour": "off-white",
             "style_details": "v-neck, long sleeves, relaxed fit"
           },
@@ -142,20 +153,21 @@
       },
       {
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719099721_18666135211040453_4280324809363151312_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=jSZA9nxaEXsQ7kNvwFtS3-o&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-FIx4NFYVVYjy28IgDKsF7-A-sgoZ0G7OKnwBsvXcUsA&oe=6A430B8F&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719210368_18666135220040453_3410430404298235852_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=JogpsY-pzfIQ7kNvwF74FvU&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af82dNXeSuhSppikLO3n7sbrC0XehWGbJ3ROi_10UCIYjA&oe=6A42F8E3&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "ribbed strapless top",
+            "garment_type": "ribbed tube top",
             "colour": "butter yellow",
-            "style_details": "fitted, textured ribbing"
+            "style_details": ""
           },
           {
             "garment_type": "high-waisted drawstring trousers",
             "colour": "butter yellow",
-            "style_details": ""
+            "style_details": "relaxed fit, elastic waistband with drawcord"
           }
         ]
       },
@@ -163,26 +175,21 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718935732_18666135229040453_6998472692000420042_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=auQvd3Ansy0Q7kNvwGV4ywc&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-6eSlmIUthW9IzHh6VBX2OxQB8tGDBvZZELFEjSf2-HQ&oe=6A42E621&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "chunky knit sweater",
-            "colour": "cream",
-            "style_details": "crew neck, relaxed fit, ribbed texture"
+            "garment_type": "oversized knit sweater",
+            "colour": "off-white",
+            "style_details": "crew neckline, ribbed texture, dropped shoulders"
+          },
+          {
+            "garment_type": "fitted cotton t-shirt",
+            "colour": "white",
+            "style_details": ""
           }
         ]
       },
       {
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718538945_18666135238040453_2668763543440356034_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=QK9N-SlVb8YQ7kNvwHTdgK-&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8UeqygxMR5sCI5xX7VMDyFLdQQorHO92YnHPFeRP78EQ&oe=6A43167D&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "relaxed fit white shirt",
-            "colour": "white",
-            "style_details": "long sleeves, button-up front"
-          },
-          {
-            "garment_type": "wide-leg cream trousers",
-            "colour": "cream",
-            "style_details": "high-waisted, flowy silhouette"
-          }
-        ]
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718868644_18666135247040453_3094870075570866415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=JgxS_s40MDsQ7kNvwEscuXy&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-R-6A49xCdvFJm4HXaU6Z23imS3Dis6CHuke40pwWhsw&oe=6A42FA70&_nc_sid=10d13b",
@@ -190,10 +197,10 @@
           {
             "garment_type": "textured tie-front blouse",
             "colour": "off-white",
-            "style_details": "loose fit, deep v-neck, long sleeves"
+            "style_details": "deep v-neck, oversized fit, long sleeves"
           },
           {
-            "garment_type": "high-waisted straight-leg trousers",
+            "garment_type": "high-waisted wide-leg trousers",
             "colour": "off-white",
             "style_details": ""
           }
@@ -203,14 +210,14 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718907186_18666135289040453_8701678264593516357_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Jrb5ZZ_9gR4Q7kNvwFOrH6E&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_OM19mqtcBurHumse-6aWZZwvGRoCcixblUojXOcilOw&oe=6A42FD52&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "knit oversized sweater",
-            "colour": "off-white",
-            "style_details": "crew neck, dropped shoulders"
+            "garment_type": "loose-knit cream sweater",
+            "colour": "cream",
+            "style_details": "crew neckline, relaxed fit, dropped shoulder"
           },
           {
-            "garment_type": "relaxed cotton trousers",
+            "garment_type": "white high-waisted trousers",
             "colour": "white",
-            "style_details": ""
+            "style_details": "straight-leg, hidden closure"
           }
         ]
       },
@@ -220,16 +227,16 @@
           {
             "garment_type": "fitted black t-shirt",
             "colour": "black",
-            "style_details": "crew neck, short sleeves"
+            "style_details": "short sleeves, crew neck"
           },
           {
-            "garment_type": "wide-leg blue jeans",
-            "colour": "medium wash blue",
-            "style_details": "high-waisted, classic five-pocket design"
+            "garment_type": "high-waisted wide-leg jeans",
+            "colour": "medium blue wash",
+            "style_details": ""
           },
           {
-            "garment_type": "light cream scarf",
-            "colour": "light cream",
+            "garment_type": "silk scarf",
+            "colour": "off-white",
             "style_details": "draped over shoulder"
           }
         ]
@@ -243,9 +250,9 @@
             "style_details": ""
           },
           {
-            "garment_type": "relaxed drawstring trousers",
-            "colour": "buttery yellow",
-            "style_details": "elasticated waist, side pockets"
+            "garment_type": "high-waisted lounge trousers",
+            "colour": "pale yellow",
+            "style_details": "drawstring waist, relaxed fit"
           }
         ]
       },
@@ -253,14 +260,14 @@
         "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718648911_18666135292040453_8142626029068674952_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=wwT622LK8HMQ7kNvwEn2JMq&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9XH-wLtK20VfsQTcl5SoEMOV_G5-CchOyGjRx9_AdoVw&oe=6A430EBA&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "ribbed crew-neck sweater",
+            "garment_type": "ribbed knit sweater",
             "colour": "off-white",
-            "style_details": "long sleeves, relaxed fit"
+            "style_details": "oversized fit, crew neck, long sleeves"
           },
           {
-            "garment_type": "loose-fit drawstring trousers",
-            "colour": "buttery yellow",
-            "style_details": "high-waisted, elastic waistband"
+            "garment_type": "relaxed cotton joggers",
+            "colour": "pale yellow",
+            "style_details": "high-waisted, elasticated drawstring waistband"
           }
         ]
       }
@@ -273,20 +280,36 @@
     "images": [
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/724076556_18668457382040453_1018351617487863266_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=0Luko6h0CKoQ7kNvwH-MUnP&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_wmLhj2xM3hxBSpmzK7ggUyKlto43-TPw4C5jP8PRC7g&oe=6A42FB83&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722768582_18668457394040453_2491003724011596000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=7jZgHM0Z0xoQ7kNvwHUEq9n&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8ycNcSccCMzkRTk83Uslu3vyrldZrTHMbNLBYmkd_vEw&oe=6A42FF37&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless midi dress",
+            "garment_type": "sleeveless fitted midi dress",
             "colour": "off-white",
-            "style_details": "round neckline, fitted bodice"
+            "style_details": "boat neckline, simple silhouette"
           },
           {
-            "garment_type": "patent leather loafers",
-            "colour": "black",
-            "style_details": "croc-embossed texture, round toe"
+            "garment_type": "embossed leather loafers",
+            "colour": "dark brown",
+            "style_details": "square toe, low heel"
+          },
+          {
+            "garment_type": "tailored open-front blazer",
+            "colour": "chocolate brown",
+            "style_details": ""
+          },
+          {
+            "garment_type": "wide-leg tailored trousers",
+            "colour": "light grey",
+            "style_details": ""
+          },
+          {
+            "garment_type": "long-sleeve collared shirt",
+            "colour": "light blue",
+            "style_details": ""
           }
         ]
       },
@@ -294,9 +317,9 @@
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722490006_18668457403040453_9171943112672741515_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=nVkzk47aUPUQ7kNvwFG6afJ&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9D2u4oMXtNKc0Qy4HUoHKI_SUCKespmXrGbgQ4IC0Eqw&oe=6A431AD6&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "tailored white shirt",
-            "colour": "white",
-            "style_details": "long sleeve, cuffed"
+            "garment_type": "fitted white long-sleeve shirt",
+            "colour": "off-white",
+            "style_details": "classic dress shirt collar, buttoned cuffs"
           }
         ]
       },
@@ -304,9 +327,9 @@
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723066855_18668457412040453_1908104594022396465_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=rCPEC_EtPyMQ7kNvwHlXy4O&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_xbjVktjPqGOKMUrABDTBmPeTLz4oOm9hm5GGGXzdAUw&oe=6A42FFB4&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "lace-trimmed cape blouse",
+            "garment_type": "lace-trim open-front cover-up",
             "colour": "off-white",
-            "style_details": "open front, intricate lace detailing"
+            "style_details": "semi-sheer fabric, intricate lace detailing, loose fit"
           }
         ]
       },
@@ -314,14 +337,14 @@
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723838639_18668457421040453_6584933460927636708_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=cPMRAvru-CEQ7kNvwFj5Fzd&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9-vBbrTICxlnj_hwCs9gcLpOQ_dph7-9BtO_CuJeV6-g&oe=6A4314CD&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "midi skirt",
+            "garment_type": "soft midi skirt",
             "colour": "off-white",
-            "style_details": "straight cut, minimalistic design"
+            "style_details": "straight fit, mid-calf length"
           },
           {
-            "garment_type": "croc-embossed loafers",
+            "garment_type": "croc-embossed leather loafers",
             "colour": "black",
-            "style_details": ""
+            "style_details": "almond toe, flat heel"
           }
         ]
       },
@@ -329,9 +352,9 @@
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722909959_18668457430040453_137010541156056292_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=rxUH758ACUIQ7kNvwErRY5A&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_0Dde-s_p_yVX4DI-fgvJxb3O8Fi8QnA8uYkdiF-I9Eg&oe=6A431417&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless fitted dress",
+            "garment_type": "fitted sleeveless midi dress",
             "colour": "off-white",
-            "style_details": "round neckline, darted bodice"
+            "style_details": "scoop neckline, seam detailing, knee-length hem"
           }
         ]
       },
@@ -339,19 +362,19 @@
         "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723208852_18668457439040453_2233127062848596268_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=c5snUooyAfAQ7kNvwHTVHY4&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_hsCjOj1CgMz2Z9hzxodnD7UiG80N2UxqubuKC8V8qfw&oe=6A42F6E2&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted short-sleeve top",
+            "garment_type": "ribbed fitted t-shirt",
             "colour": "off-white",
-            "style_details": "crew neckline"
+            "style_details": "crew neck, short sleeves"
           },
           {
-            "garment_type": "high-waisted pleated trousers",
-            "colour": "white",
-            "style_details": ""
+            "garment_type": "pleated high-waisted trousers",
+            "colour": "bright white",
+            "style_details": "tailored fit, side pockets"
           },
           {
-            "garment_type": "croc-texture belt",
+            "garment_type": "embossed leather belt",
             "colour": "chocolate brown",
-            "style_details": "gold buckle"
+            "style_details": "crocodile texture, gold buckle"
           }
         ]
       }
@@ -366,24 +389,24 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/722809978_18668736112040453_1984907258179965124_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGNJg0LJd7-XTgdr_EktcU1N35X6RIMArczYRuGZoy54L8zNa_-jb8yjBSa7in4SF0&_nc_ohc=5K-IxcjdPREQ7kNvwE_8EYm&_nc_gid=obEEnzryEWTe8Ngzf0PPpw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VL5-ftp87tZ6EryDZbQS9wK0rTBbxtHMWJz9noiqOcQ&oe=6A430E78&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "embroidered sheer shawl",
+            "garment_type": "sheer lace trim shawl",
             "colour": "off-white",
-            "style_details": "lace trim, intricate floral embroidery"
+            "style_details": "intricate lace patterns, draped over shoulders"
           },
           {
-            "garment_type": "plain white tank top",
+            "garment_type": "fitted cotton tank top",
             "colour": "white",
             "style_details": ""
           },
           {
-            "garment_type": "wide-leg black trousers",
+            "garment_type": "straight-leg trousers",
             "colour": "black",
-            "style_details": "high-waisted, relaxed fit"
+            "style_details": ""
           },
           {
-            "garment_type": "woven straw handbag",
-            "colour": "natural",
-            "style_details": "basket weave texture, short handles"
+            "garment_type": "woven straw tote bag",
+            "colour": "natural beige",
+            "style_details": "basket weave pattern, top handle"
           }
         ]
       }
@@ -398,14 +421,14 @@
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723118609_18667574467040453_2668604045219434304_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=oEPnx6GLxjcQ7kNvwHRvvmI&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-zlTcoJOmWnOlLGSTsYCsW8HJxE-1nxRNOdH35mM4h6A&oe=6A42FADE&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "draped maxi dress",
-            "colour": "camel",
-            "style_details": "wrap front, kimono sleeves, subtle slit"
+            "garment_type": "draped midi dress",
+            "colour": "mustard yellow",
+            "style_details": "v-neck, gathered detail, loose fit"
           },
           {
             "garment_type": "pointed-toe flats",
             "colour": "black",
-            "style_details": "sleek leather finish"
+            "style_details": ""
           }
         ]
       },
@@ -413,126 +436,119 @@
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722666686_18667574476040453_3969089098638816844_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=MTsMzreYW1EQ7kNvwHMYE5v&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-aZv9pyqB6xsHOkYec_7VPeWT0Ktrkn0-1zdCzY_0JDQ&oe=6A42F902&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "draped floor-length gown",
+            "garment_type": "draped maxi dress",
             "colour": "light grey",
-            "style_details": "batwing sleeves, relaxed fit, deep v-neckline"
+            "style_details": "flowing fit, shawl collar"
           },
           {
-            "garment_type": "pointed-toe stiletto pumps",
+            "garment_type": "pointed-toe stiletto heels",
             "colour": "black",
-            "style_details": ""
+            "style_details": "sleek design"
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723126737_18667574485040453_4318609608691680233_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=_CBcn4EELs8Q7kNvwGmBuuI&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-E7Wg3pWflZYHQop_VJCfg7U3gIVm_XSu9W3Pyt6B22Q&oe=6A42F956&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722666676_18667574494040453_8652722090457150000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=D7Z14HMTHtUQ7kNvwHfUpai&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8fkINwheIkaTRiTWS4N2t6bVSWJ9PZpZ_dcIK11NleTA&oe=6A431423&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "draped midi dress",
+            "garment_type": "draped maxi dress",
             "colour": "camel",
-            "style_details": "v-neck, loose fit, asymmetric hem"
+            "style_details": "v-neck, batwing sleeves, front draping"
           },
           {
-            "garment_type": "pointed-toe flat shoes",
-            "colour": "dark olive green",
-            "style_details": ""
-          },
-          {
-            "garment_type": "clutch bag",
-            "colour": "black",
+            "garment_type": "pointed-toe kitten heels",
+            "colour": "olive green",
             "style_details": ""
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724143084_18667574503040453_1180762001067369571_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=wF_Z9iRqX5YQ7kNvwFpZ3bG&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8-ElkvpOyJ28O2dbkTgxpn6CsyY0CTTpaU6XTWklzKhQ&oe=6A431AD4&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "fitted black suit jacket",
-            "colour": "black",
-            "style_details": "notched lapel, single-breasted, button closure"
-          }
-        ]
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723085305_18667574512040453_5808934234496859918_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=FZuKxURyX8AQ7kNvwFo12Rl&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af86ftFgYDlbWJB3io6xD3PpNox21cA3IL7MtxKK-CaWnA&oe=6A42FA4C&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722469439_18667574521040453_4079045642802390226_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=VPsrO84pRw4Q7kNvwGCQUor&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af90hSTbDqR8X5vWiUs4SPGAlwLPgQgeji1EWnme4_wXBA&oe=6A42F4EB&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "black satin slip dress",
-            "colour": "jet black",
+            "garment_type": "fitted black satin slip dress",
+            "colour": "black",
             "style_details": "spaghetti straps, midi length"
           },
           {
-            "garment_type": "woven beret",
-            "colour": "beige",
-            "style_details": ""
-          },
-          {
-            "garment_type": "suit jacket",
-            "colour": "black",
-            "style_details": "tailored fit, single-breasted"
-          },
-          {
-            "garment_type": "straight-leg trousers",
+            "garment_type": "chunky black derby shoes",
             "colour": "black",
             "style_details": ""
           },
           {
-            "garment_type": "pointed-toe stilettos",
+            "garment_type": "sleek red heeled sandals",
             "colour": "red",
-            "style_details": "high heel"
+            "style_details": "ankle strap, stiletto heel"
           },
           {
-            "garment_type": "oxford shoes",
+            "garment_type": "tailored black suit jacket",
+            "colour": "black",
+            "style_details": "single-breasted, notched lapel"
+          },
+          {
+            "garment_type": "tailored black suit trousers",
             "colour": "black",
             "style_details": ""
+          },
+          {
+            "garment_type": "white dress shirt",
+            "colour": "white",
+            "style_details": "standard collar"
+          },
+          {
+            "garment_type": "crochet knit cloche hat",
+            "colour": "beige",
+            "style_details": "open weave"
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723209053_18667574533040453_4372791320679687108_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=-C2uPuljEswQ7kNvwE7r3e_&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-E4tRSFI9q-ec-Aq_S3BSBzMk_lwMlEpZVWS3fLRxoyw&oe=6A42F1CD&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "strappy heeled sandals",
-            "colour": "crimson red",
-            "style_details": "square toe, thin ankle strap"
-          }
-        ]
+        "clothing": [],
+        "error": "Failed after 3 retries due to rate limiting"
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723613498_18667574542040453_3037231671183029434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=ka207rD0IDkQ7kNvwFAN9h5&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8y7z5KEuggr6UXbZRLOZ9a_sDKWaMitiu7HHuWmwkyCA&oe=6A4317B8&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724164304_18667574551040453_2905564372395946937_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=huSu1jYI_wAQ7kNvwH1Egax&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WsQ-q8uJY17bwZm-1ovecYbGuz5fRswm6SfGUMzmTxw&oe=6A4317DF&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "spaghetti strap slip dress",
+            "garment_type": "spaghetti strap midi dress",
             "colour": "black",
             "style_details": ""
           },
           {
-            "garment_type": "lace crochet headpiece",
-            "colour": "off-white",
-            "style_details": "decorative tassels, floral detail"
+            "garment_type": "tailored suit jacket",
+            "colour": "dark grey",
+            "style_details": "single-breasted with notch lapels"
           },
           {
-            "garment_type": "single-breasted suit jacket",
-            "colour": "charcoal",
-            "style_details": "notch lapels, structured shoulders"
+            "garment_type": "button-up shirt",
+            "colour": "white",
+            "style_details": "classic collar"
           },
           {
-            "garment_type": "patterned necktie",
+            "garment_type": "polka dot tie",
             "colour": "black",
-            "style_details": "polka dot pattern"
+            "style_details": "white polka dots"
           }
         ]
       }
@@ -547,19 +563,14 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721377471_18666672487040453_3775645091314565480_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=3LM9otIK4XgQ7kNvwGWnQa8&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8-cOynuMTeXRYFof481ZTW3zBA4JY3t29waPT5XfQC9g&oe=6A42FC26&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted short-sleeve top",
+            "garment_type": "fitted cotton t-shirt",
             "colour": "off-white",
-            "style_details": "crew neck, snug fit"
+            "style_details": "crew neckline, short sleeves"
           },
           {
             "garment_type": "pointed-toe flats",
-            "colour": "black",
+            "colour": "charcoal",
             "style_details": ""
-          },
-          {
-            "garment_type": "fitted mini skirt",
-            "colour": "white",
-            "style_details": "high-waisted, straight cut"
           }
         ]
       },
@@ -567,48 +578,44 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721323153_18666672496040453_634308362739883939_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=AjnoVNtEZukQ7kNvwF2YZ6e&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-SwrSty56nRm3NAgFQKHeodr2bh1Q6lLuQoArM_CojwQ&oe=6A42F689&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "classic white button-up shirt",
+            "garment_type": "crisp cotton button-up shirt",
             "colour": "white",
-            "style_details": "structured collar, long sleeves"
+            "style_details": "classic collar, relaxed fit, long sleeves"
           },
           {
-            "garment_type": "high-waisted white trousers",
+            "garment_type": "high-waisted pleated trousers",
             "colour": "white",
-            "style_details": "pleated front, loose fit"
+            "style_details": "tailored fit, pressed creases"
           },
           {
-            "garment_type": "brown leather belt",
-            "colour": "brown",
-            "style_details": "croco-embossed, gold buckle"
-          },
-          {
-            "garment_type": "black leather tote bag",
-            "colour": "black",
-            "style_details": "structured shape, gold hardware"
+            "garment_type": "croc-effect leather belt",
+            "colour": "chestnut brown",
+            "style_details": "gold square buckle"
           }
         ]
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/720950284_18666672505040453_9096421161920380313_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=RPobeYY3IkkQ7kNvwE80tGv&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-kt9wp3FvL-T__lRaWvxLvtSFBDtwGIP8KuqohM3fvmA&oe=6A4306CD&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721169616_18666672532040453_7967670447172786102_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=F_XciXbxRyIQ7kNvwEfeizr&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_h8aNsCOCXHq5rAiLA1cTaKCOR9I5kEF-J8A6YFvRYMQ&oe=6A42FB16&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "oversized cotton shirt",
-            "colour": "off-white",
-            "style_details": "button-up, open collar, long sleeves"
+            "garment_type": "oversized button-up shirt",
+            "colour": "crisp white",
+            "style_details": "collared, long sleeves, relaxed fit"
           },
           {
-            "garment_type": "high-waisted tailored trousers",
-            "colour": "off-white",
-            "style_details": "pleated front, straight-leg"
+            "garment_type": "high-waisted pleated trousers",
+            "colour": "crisp white",
+            "style_details": "belt loops, tailored fit, pleated front"
           },
           {
             "garment_type": "textured leather belt",
-            "colour": "chocolate brown",
-            "style_details": "gold buckle, croc-embossed texture"
+            "colour": "dark brown",
+            "style_details": "crocodile pattern, gold-tone buckle"
           }
         ]
       },
@@ -618,17 +625,17 @@
           {
             "garment_type": "fitted short-sleeve top",
             "colour": "off-white",
-            "style_details": "crew neck, cropped hem"
+            "style_details": ""
           },
           {
-            "garment_type": "bodycon mini skirt",
+            "garment_type": "fitted mini skirt",
             "colour": "off-white",
             "style_details": ""
           },
           {
             "garment_type": "pointed-toe kitten heels",
-            "colour": "charcoal",
-            "style_details": "low heel, slip-on style"
+            "colour": "black",
+            "style_details": "slip-on style, low heel"
           }
         ]
       },
@@ -636,12 +643,12 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/720398826_18666672523040453_7242037433978489333_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=qnR0VzVljVIQ7kNvwGpT1Nk&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_LutaL4IWAfiKTOaogi2UpghjA8WTq-OrBo6HoW2vkvg&oe=6A42F474&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted black tank top",
+            "garment_type": "fitted sleeveless top",
             "colour": "black",
             "style_details": "scoop neckline"
           },
           {
-            "garment_type": "fitted black sleeveless top",
+            "garment_type": "fitted sleeveless top",
             "colour": "black",
             "style_details": "v-neckline"
           }
@@ -651,14 +658,14 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721310507_18666672541040453_2141562615836421415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=5yjD6uQpeOMQ7kNvwHJubge&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8wpbz22DPpQwzZ7wadBMHbDq7ecROL00m0UPCr_85kbA&oe=6A43097E&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted cotton t-shirt",
+            "garment_type": "fitted off-white short-sleeve top",
             "colour": "off-white",
-            "style_details": "crew neck, short sleeves"
+            "style_details": "crew neck, slightly cropped"
           },
           {
-            "garment_type": "high-waisted cotton joggers",
+            "garment_type": "off-white elastic-waist shorts",
             "colour": "off-white",
-            "style_details": "elastic waistband"
+            "style_details": "high-waisted, relaxed fit"
           }
         ]
       }
@@ -673,9 +680,9 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/731014416_18671059690040453_5611258087791489649_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=dBQtuSvUeI4Q7kNvwFd2gBm&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9Ae7YC4Z23M8CQTEFFn7O6o0-itymG-mg-ZaMjNHCdVA&oe=6A42E499&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "ribbed sleeveless v-neck top",
+            "garment_type": "ribbed deep v-neck top",
             "colour": "off-white",
-            "style_details": "deep v-neckline, texture with ribbing"
+            "style_details": "deep v-neckline, ribbed texture "
           }
         ]
       },
@@ -683,21 +690,22 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730917263_18671059699040453_6518446436997416338_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=QPwAvHyPLOIQ7kNvwH4C_em&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-ElyAOSJ9ynF-l6L-DmKnAk3MF1jx4TGIlmg2y_suvNQ&oe=6A42F281&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless textured knit top",
+            "garment_type": "sleeveless v-neck top",
             "colour": "off-white",
-            "style_details": "deep v-neck"
+            "style_details": "ribbed texture, deep v-neckline"
           }
         ]
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730503471_18671059717040453_7434224111804269504_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=tvWa2_JsRWEQ7kNvwEX69yY&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_VqIBPvTlrWPbVopRKrFDVot9VgcqMQ6vwut0dVqGiWA&oe=6A42E918&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730621282_18671059708040453_8885399229683892731_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=tHCULxpSN8sQ7kNvwFExYfe&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8qZN22GVE1uagaDhFXxHjMVWKb8epYC-dkXK5D0XmSvg&oe=6A42F2D9&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "textured sleeveless top",
+            "garment_type": "sleeveless textured top",
             "colour": "off-white",
             "style_details": "v-neck, ribbed texture"
           }
@@ -707,9 +715,9 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730598564_18671059726040453_7110247111424978767_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=RlyLaaXzk7oQ7kNvwFne1bh&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_j5NEWLqQay43pjXVpiBQ15TGmgKtE9FD-7dOJ9Xdbsw&oe=6A42F5F8&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted knit sleeveless top",
+            "garment_type": "knit v-neck sleeveless top",
             "colour": "off-white",
-            "style_details": "v-neck"
+            "style_details": ""
           }
         ]
       }
@@ -725,58 +733,45 @@
         "clothing": [
           {
             "garment_type": "fitted white shirt",
-            "colour": "white",
-            "style_details": "pointed collar"
+            "colour": "crisp white",
+            "style_details": "classic collar, buttoned front"
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720712138_18666990940040453_7772438274437632761_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=zfU2dWdKkCsQ7kNvwFZFaoj&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-JKsAiRnOz0-wtVez0Jy8Wfw5gjP6h6OZaEmIIj2u4Rw&oe=6A42FBCC&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "oversized cotton shirt",
-            "colour": "off-white",
-            "style_details": "button-up, long sleeves, relaxed fit"
-          },
-          {
-            "garment_type": "high-waisted pleated trousers",
-            "colour": "off-white",
-            "style_details": ""
-          },
-          {
-            "garment_type": "embossed leather belt",
-            "colour": "chocolate brown",
-            "style_details": "square buckle, textured design"
-          }
-        ]
+        "clothing": [],
+        "error": "Failed after 3 retries due to rate limiting"
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721625461_18666990967040453_7226467476138262569_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=8vR9mPbuHH0Q7kNvwGiJGNy&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_oZD10x_0boRF-nYZf5rSt5bb7hPKXHnyvw4m1DVaLTw&oe=6A42F954&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720427164_18666990979040453_2612793860402227109_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=c7N0N4R38HQQ7kNvwFKQw3H&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XLHXhF9IGtzqdCKI_B9Dld0gysf0c0x56Q_lhOgNUEA&oe=6A431771&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "fitted cotton shirt",
-            "colour": "pure white",
-            "style_details": "button-up closure, classic collar, long sleeves"
+            "garment_type": "fitted button-up shirt",
+            "colour": "off-white",
+            "style_details": "collared, long sleeves, slightly oversized fit"
           },
           {
-            "garment_type": "high-waisted tailored trousers",
-            "colour": "pure white",
-            "style_details": "pleated front, side pockets"
+            "garment_type": "high-waisted trousers",
+            "colour": "off-white",
+            "style_details": "pleated, relaxed fit, with belt loops"
           },
           {
-            "garment_type": "croc-embossed leather belt",
-            "colour": "dark brown",
-            "style_details": "gold buckle, adjustable fit"
+            "garment_type": "embossed leather belt",
+            "colour": "chocolate brown",
+            "style_details": "gold buckle, crocodile texture"
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721200534_18666990988040453_6200528160440074335_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=K0emooilULwQ7kNvwHro9qd&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_gOaM-UWQDuHazDXs1qDVFkvAfAG6nFBhSgrSFZieIjA&oe=6A42F3D5&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720387213_18666991012040453_2562023220406146280_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=JNXBTy5uxq4Q7kNvwHhGy7X&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-hz0j8sw4G5D5to6dyegYKrNIMg8-GQhb6DG0y9Y0gJw&oe=6A42E714&_nc_sid=10d13b",
@@ -784,63 +779,74 @@
           {
             "garment_type": "oversized cotton shirt",
             "colour": "off-white",
-            "style_details": "button-up, classic collar, long sleeves"
+            "style_details": "button-down, long sleeves, classic collar"
           },
           {
             "garment_type": "wide-leg trousers",
             "colour": "off-white",
-            "style_details": ""
+            "style_details": "high-waisted"
           },
           {
-            "garment_type": "strappy heeled sandals",
+            "garment_type": "leather sandals",
             "colour": "black",
-            "style_details": "thin strap, open-toe, mid-heel"
+            "style_details": "square toe, thin straps"
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722384421_18666991021040453_7532312229861703968_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=krqKnqBLtp4Q7kNvwFEZ7pc&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-ncMtgQI2CDUEaIHV-Fm1iHuNFnbbKX2x6YS_ltjCIbg&oe=6A430456&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "error": "Failed after 3 retries due to rate limiting"
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721880601_18666991039040453_6247899164361067606_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=Wa37ciy0aDQQ7kNvwEvLTsI&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af91HNLRna6Scf12e1yISmvcD72XZkNuQYKAo23exmLT6w&oe=6A42E7A6&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722313344_18666991030040453_2875657792199392038_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=D8lnR-jXxOQQ7kNvwFu_PuP&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_gqtx47uod0xa-txBGsMjbPTIUKQRHmdvr91W8z7GLZQ&oe=6A43098F&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720776331_18666991057040453_806967326036358613_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=eZEpvrFsZDMQ7kNvwFuoKUC&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af81ZKM90YEUEdk0XtUsVq2pI1xUcs1p-Murvmlt67s8uA&oe=6A42EED8&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722098068_18666991048040453_6057754646759527749_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=rG8p8XGPXCsQ7kNvwH0d5v8&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_ZKYU86nD8QFv3a9QKkyCy_404JEBmJqDYjV87RYognQ&oe=6A430DF6&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721463233_18666991066040453_7126741507144747715_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=nkZTfDy_hCIQ7kNvwGylENg&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-ETXrVDB3vIAvBsABAusBGPZm7Uhzys47Oh3cWmi1biQ&oe=6A4315AF&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720805146_18666991084040453_6118309669729403991_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=q0Li42_qisUQ7kNvwH6u1Tr&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8M5t5BtOwmT6o9OtXEZEeRp99lEferyjVgZ89RWhG7Og&oe=6A42EA8D&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721464091_18666991075040453_1090566644495190319_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=pe2khOmWqJ8Q7kNvwE0JjUU&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8bjZ8EF0GgT72Eby-ZaRTfWHhR4UL7ge9sfpvXoEvR0w&oe=6A42EE3B&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "error": "Failed after 3 retries due to rate limiting"
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720784718_18666991093040453_7229682711725294014_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=tsd6vvs8pt0Q7kNvwGV0bQI&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9JI93WIovYgTJFExPZSwH18a_jCLxfoVNmdwqXVZWa8g&oe=6A42FC9E&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721454540_18666991102040453_8397008208851798644_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=MQQfOGBpkIEQ7kNvwEEjTvW&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8pCvVroR5dqPm1du66UeB_NvCv8tj1K2HTXyOeMsfrRw&oe=6A42F4B4&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722098022_18666991111040453_2044995847500299760_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=t-Dc5fD5UpMQ7kNvwFMCGxc&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_9Oc9BvasN6YkWWCLSESKgHVM5yTqrU6Ia6GFX4C9Wwg&oe=6A43123D&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       }
     ]
   },
@@ -851,40 +857,26 @@
     "images": [
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/724691715_18669365983040453_4453762730670798182_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=_WjVLs1xab8Q7kNvwHxHyPr&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8Fp7C8oCeN2Nu0SxGdN1A2eKN12lIkN6Ep5MMNaAVQcA&oe=6A431057&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/727494125_18669365971040453_3150380186468931806_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=p-lJEyCFFj0Q7kNvwE9dEMe&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_BoOw2ti6a_0hVEvmj5OZktBUv4Y8yqUU-zLPM7zgZ_A&oe=6A42ECF4&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "asymmetric layered sleeveless top",
-            "colour": "off-white",
-            "style_details": "asymmetrical draped design, layered"
-          },
-          {
-            "garment_type": "flowy wide-leg trousers",
-            "colour": "off-white",
-            "style_details": "high-waisted with sheer overlay"
-          },
-          {
-            "garment_type": "chunky platform mules",
-            "colour": "black",
-            "style_details": "closed-toe, slip-on"
-          }
-        ]
+        "clothing": [],
+        "error": "Failed after 3 retries due to rate limiting"
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/725946982_18669366004040453_6163839995742731548_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=dxQinfckjUYQ7kNvwGF-CuX&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_vwTGbzvhDLT60m5ZUXVm4TFoKcRGePLFdtjypdiB2fQ&oe=6A430F72&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless layered chiffon dress",
-            "colour": "ivory",
-            "style_details": "asymmetrical hem, flowy fit"
+            "garment_type": "sleeveless layered maxi dress",
+            "colour": "off-white",
+            "style_details": "asymmetrical layers with a flowy scarf detail"
           },
           {
-            "garment_type": "chunky peep-toe mules",
+            "garment_type": "peep-toe mules",
             "colour": "black",
-            "style_details": ""
+            "style_details": "block heel with a simple slip-on design"
           }
         ]
       },
@@ -892,31 +884,37 @@
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/726969438_18669365995040453_409538123755295817_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=cYdVqNsKFfEQ7kNvwGwJVi9&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8KVYSGe8J5_KeKo0Xzim8mm6GakNArUTG1h9BfdKTuGA&oe=6A431289&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless asymmetric top",
+            "garment_type": "sleeveless top",
             "colour": "off-white",
-            "style_details": "asymmetric neckline, flowy fit"
+            "style_details": "asymmetric neckline, relaxed fit"
+          },
+          {
+            "garment_type": "structured handbag",
+            "colour": "cream",
+            "style_details": "ostrich texture, top handle"
           }
         ]
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/725756791_18669366013040453_455507002663565754_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=7NxaeZKcJEEQ7kNvwHn93Tm&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-UsfR99g0Rb3MeBQHOLpFmxmfQK4uLDslg245FHLaSgA&oe=6A430F7E&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/723883594_18669366031040453_8032459833528115950_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=PRZ-ixxhLrYQ7kNvwG7eYQ_&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8RFRWHaOVWZHt2pjAon0o4stPNkqopfJlSKnxWf-UY2g&oe=6A431836&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless silk blouse",
+            "garment_type": "sleeveless asymmetrical top",
             "colour": "off-white",
-            "style_details": "draped neckline, relaxed fit"
+            "style_details": "loose fit, draped design"
           },
           {
-            "garment_type": "wide-leg linen trousers",
+            "garment_type": "loose-fit wide-leg trousers",
             "colour": "off-white",
-            "style_details": "ankle length, lightweight fabric"
+            "style_details": "lightweight fabric, mid-rise"
           },
           {
-            "garment_type": "pointed-toe ballet flats",
+            "garment_type": "ballet flats",
             "colour": "black",
             "style_details": ""
           }
@@ -924,42 +922,33 @@
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/726839433_18669366022040453_5140766771309501_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=OjKx3G_ShH0Q7kNvwG3JtjJ&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9EQeYaaOAoq371DzW36OjBBYPsPDo962tM6-AeSnt1sw&oe=6A42EADE&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/724685366_18669366040040453_9135531182011475171_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=Qn_-S7k-gk0Q7kNvwEUzwEh&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-eSALmgOZOYXtzmwQ-KiFtlzJuMjkogSFcTMYwppioDw&oe=6A431984&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "sleeveless white tunic top",
+            "garment_type": "sleeveless draped top",
             "colour": "off-white",
-            "style_details": "v-neck, flowy fit, asymmetrical hem"
+            "style_details": "deep v-neck, relaxed fit"
           },
           {
-            "garment_type": "wide-leg white trousers",
+            "garment_type": "wide-leg trousers",
             "colour": "off-white",
-            "style_details": "loose fit, high-waisted"
+            "style_details": "lightweight fabric, relaxed fit"
           },
           {
-            "garment_type": "black ballet flats",
+            "garment_type": "round-toe flats",
             "colour": "black",
-            "style_details": "round toe, slip-on style"
+            "style_details": ""
           }
         ]
       },
       {
         "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/726399851_18669366052040453_1865048972190494820_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=Q1efp-0LdWUQ7kNvwEm6wF7&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8LgTXP7nuqgUe58fs8BSMZYLCgMz9YPpQX3aVd7KDkcg&oe=6A431626&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "green shirt",
-            "colour": "olive green",
-            "style_details": "collared, button-down front"
-          },
-          {
-            "garment_type": "white blouse",
-            "colour": "off-white",
-            "style_details": "pleated detail, v-neckline"
-          }
-        ]
+        "clothing": [],
+        "filtered": true
       }
     ]
   },
@@ -972,59 +961,44 @@
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729437679_18670751446040453_7821996011122834317_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=kchr8IRYcmkQ7kNvwEUZCo9&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-jfPVA1zbchICrUFPM2n4p_RhvoQYhNKkNf1afeTCzbA&oe=6A42E52F&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "oversized linen kaftan",
-            "colour": "light cream",
-            "style_details": "short sleeves, loose fit, ankle length"
+            "garment_type": "oversized cream cape dress",
+            "colour": "cream",
+            "style_details": "textured fabric, short sleeves, ankle-length hem"
           },
           {
-            "garment_type": "crochet bucket hat",
-            "colour": "taupe",
+            "garment_type": "crochet brown cloche hat",
+            "colour": "brown",
             "style_details": ""
           },
           {
-            "garment_type": "textured ballet flats",
-            "colour": "chocolate brown",
-            "style_details": ""
+            "garment_type": "textured brown ballet flats",
+            "colour": "brown",
+            "style_details": "rounded toe, no heel"
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/730244724_18670751464040453_1969168582348384156_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=tu2zw9eEJpEQ7kNvwGFl6Ih&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8NGzyoyN69yzTnx-gyz5_a-XfD89qgK_ari0L6ePKKqQ&oe=6A42FCE8&_nc_sid=10d13b",
-        "clothing": [
-          {
-            "garment_type": "relaxed linen kaftan dress",
-            "colour": "beige",
-            "style_details": "kimono sleeves, open front, side slits"
-          },
-          {
-            "garment_type": "crocheted bucket hat",
-            "colour": "taupe",
-            "style_details": ""
-          },
-          {
-            "garment_type": "pleated midi skirt",
-            "colour": "off-white",
-            "style_details": "visible below the kaftan hem"
-          },
-          {
-            "garment_type": "quilted leather clutch",
-            "colour": "taupe",
-            "style_details": "zip closure"
-          },
-          {
-            "garment_type": "woven leather flats",
-            "colour": "chocolate brown",
-            "style_details": "round toe"
-          }
-        ]
+        "clothing": [],
+        "error": "Failed after 3 retries due to rate limiting"
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729867606_18670751455040453_1071966645123807771_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=aH5OtwqGFZEQ7kNvwH9f11A&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9nDr4kpuJVkAqfp9fgU7wm0qaMG_UZxm6xdUMQlHqd4A&oe=6A431568&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "oversized beige maxi dress",
-            "colour": "beige",
-            "style_details": "flowy fit, short sleeves, subtle texture"
+            "garment_type": "oversized textured maxi dress",
+            "colour": "oatmeal",
+            "style_details": "cape-style sleeves, round neckline"
+          },
+          {
+            "garment_type": "woven bucket hat",
+            "colour": "taupe",
+            "style_details": ""
+          },
+          {
+            "garment_type": "large leather clutch bag",
+            "colour": "olive brown",
+            "style_details": "zip closure, wrist strap"
           }
         ]
       },
@@ -1032,24 +1006,26 @@
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/728627390_18670751473040453_6287088749791157371_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=DXplVflGQLcQ7kNvwFVwfp1&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8s1LoremN5wfYCV3w7zqafH7EFrH4BaBwzuSzY-cBktw&oe=6A42ECD1&_nc_sid=10d13b",
         "clothing": [
           {
-            "garment_type": "flowy linen kaftan",
-            "colour": "ecru",
-            "style_details": "loose fit, short sleeves, ankle length"
+            "garment_type": "loose-fitting textured kaftan",
+            "colour": "off-white",
+            "style_details": "floor-length, wide sleeves, open-front design"
           },
           {
-            "garment_type": "knit bucket hat",
-            "colour": "camel",
+            "garment_type": "crocheted cloche hat",
+            "colour": "taupe",
             "style_details": ""
           }
         ]
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/728641882_18670751491040453_2200822729905692669_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=ioPXDqrO_30Q7kNvwHkE2Fg&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-kdjK9IysvReRb2oVmD1G5khRXxHL7RO2UK4vs3rJWpA&oe=6A43122D&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       },
       {
         "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/728420293_18670751482040453_8612310187812673385_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=mmGLRzguLDkQ7kNvwFZbG6A&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_YZZOqCasoChKIUpReKmDQbA3lB0MmBTp8cav9BWArkA&oe=6A430A69&_nc_sid=10d13b",
-        "clothing": "\"no clothing detected\""
+        "clothing": [],
+        "filtered": true
       }
     ]
   }
