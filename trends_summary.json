@@ -4,23 +4,60 @@
   "garment_types": [
     {
       "garment_type": "wide-leg trousers",
-      "count": 3,
+      "post_count": 3,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 3
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "high-waisted, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "high-waisted",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718855245_18666135202040453_2204945225746093284_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=BwCaujNp4r8Q7kNvwGtt4a5&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XAUYN9N7r0XZS6OhZqzkdN5AdGhBRKmz49MVscycHCg&oe=6A430CC5&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720387213_18666991012040453_2562023220406146280_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=JNXBTy5uxq4Q7kNvwHhGy7X&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-hz0j8sw4G5D5to6dyegYKrNIMg8-GQhb6DG0y9Y0gJw&oe=6A42E714&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/723883594_18669366031040453_8032459833528115950_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=PRZ-ixxhLrYQ7kNvwG7eYQ_&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8RFRWHaOVWZHt2pjAon0o4stPNkqopfJlSKnxWf-UY2g&oe=6A431836&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "pointed-toe pumps",
-      "count": 3,
+      "post_count": 3,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "olive",
@@ -35,11 +72,42 @@
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722666676_18667574494040453_8652722090457150000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=D7Z14HMTHtUQ7kNvwHfUpai&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8fkINwheIkaTRiTWS4N2t6bVSWJ9PZpZ_dcIK11NleTA&oe=6A431423&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721377471_18666672487040453_3775645091314565480_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=3LM9otIK4XgQ7kNvwGWnQa8&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8-cOynuMTeXRYFof481ZTW3zBA4JY3t29waPT5XfQC9g&oe=6A42FC26&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/723883594_18669366031040453_8032459833528115950_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=PRZ-ixxhLrYQ7kNvwG7eYQ_&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8RFRWHaOVWZHt2pjAon0o4stPNkqopfJlSKnxWf-UY2g&oe=6A431836&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "knit bucket hat",
-      "count": 2,
+      "post_count": 2,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
@@ -50,27 +118,71 @@
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718855245_18666135202040453_2204945225746093284_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=BwCaujNp4r8Q7kNvwGtt4a5&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XAUYN9N7r0XZS6OhZqzkdN5AdGhBRKmz49MVscycHCg&oe=6A430CC5&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/730244724_18670751464040453_1969168582348384156_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=tu2zw9eEJpEQ7kNvwGFl6Ih&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8NGzyoyN69yzTnx-gyz5_a-XfD89qgK_ari0L6ePKKqQ&oe=6A42FCE8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "high-waisted trousers",
-      "count": 2,
+      "post_count": 2,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "crisp white",
           "count": 2
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "pleated front, tailored fit",
+          "value": "pleated",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718907186_18666135289040453_8701678264593516357_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Jrb5ZZ_9gR4Q7kNvwFOrH6E&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_OM19mqtcBurHumse-6aWZZwvGRoCcixblUojXOcilOw&oe=6A42FD52&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721323153_18666672496040453_634308362739883939_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=AjnoVNtEZukQ7kNvwF2YZ6e&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-SwrSty56nRm3NAgFQKHeodr2bh1Q6lLuQoArM_CojwQ&oe=6A42F689&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted short-sleeve t-shirt",
-      "count": 2,
+      "post_count": 2,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
@@ -81,16 +193,43 @@
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "crew neck, minimalist design",
+          "value": "mini",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "crew neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723208852_18668457439040453_2233127062848596268_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=c5snUooyAfAQ7kNvwHTVHY4&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_hsCjOj1CgMz2Z9hzxodnD7UiG80N2UxqubuKC8V8qfw&oe=6A42F6E2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        },
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721377471_18666672487040453_3775645091314565480_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=3LM9otIK4XgQ7kNvwGWnQa8&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8-cOynuMTeXRYFof481ZTW3zBA4JY3t29waPT5XfQC9g&oe=6A42FC26&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "woven straw tote bag",
-      "count": 2,
+      "post_count": 2,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "natural beige",
@@ -101,1426 +240,2591 @@
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "large braided pattern, round handles",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723208852_18668457439040453_2233127062848596268_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=c5snUooyAfAQ7kNvwHTVHY4&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_hsCjOj1CgMz2Z9hzxodnD7UiG80N2UxqubuKC8V8qfw&oe=6A42F6E2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         },
         {
-          "value": "textured straw material, short handles",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/722809978_18668736112040453_1984907258179965124_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGNJg0LJd7-XTgdr_EktcU1N35X6RIMArczYRuGZoy54L8zNa_-jb8yjBSa7in4SF0&_nc_ohc=5K-IxcjdPREQ7kNvwE_8EYm&_nc_gid=obEEnzryEWTe8Ngzf0PPpw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VL5-ftp87tZ6EryDZbQS9wK0rTBbxtHMWJz9noiqOcQ&oe=6A430E78&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted long-sleeve top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "charcoal",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "crew neck, slightly cropped hem",
+          "value": "cropped",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "crew neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/728333859_18669704818040453_3364377447961708677_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=j1nElnrv_AwQ7kNvwG35FWQ&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9bvxjFpZsVrUk2JbaxDjaKM44nzdihB2inAX9GWStznQ&oe=6A4312F7&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "knit pencil skirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "charcoal",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "high-waisted, bodycon fit",
+          "value": "high-waisted",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/728333859_18669704818040453_3364377447961708677_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=j1nElnrv_AwQ7kNvwG35FWQ&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9bvxjFpZsVrUk2JbaxDjaKM44nzdihB2inAX9GWStznQ&oe=6A4312F7&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "silk scarf",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "light grey",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "wrapped as a headscarf",
+          "value": "wrap",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/728333859_18669704818040453_3364377447961708677_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=j1nElnrv_AwQ7kNvwG35FWQ&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9bvxjFpZsVrUk2JbaxDjaKM44nzdihB2inAX9GWStznQ&oe=6A4312F7&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted ribbed knit top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "charcoal",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "short sleeves, crew neck, cropped length",
+          "value": "cropped",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "crew neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726548450_18669704908040453_9130862581911278269_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=WbsXodmaHwwQ7kNvwHh_-Gv&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af88xbRHnavo_1LFNNb_XcbwnHZDDiiCtmNx5wtH_uOc9w&oe=6A42F8F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "high-waisted knit skirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "charcoal",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "fitted silhouette",
+          "value": "fitted",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726548450_18669704908040453_9130862581911278269_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=WbsXodmaHwwQ7kNvwHh_-Gv&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af88xbRHnavo_1LFNNb_XcbwnHZDDiiCtmNx5wtH_uOc9w&oe=6A42F8F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "patterned headscarf",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "geometric print",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/726548450_18669704908040453_9130862581911278269_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHSnzBzUBjldKH1jwVDAxYKJNmtqGAVW7GUErvvHsqFXEz1mH_QZnkN0s-AAyOpxvw&_nc_ohc=WbsXodmaHwwQ7kNvwHh_-Gv&_nc_gid=wpG0XX7ZEyy_q8HYcC6Utg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af88xbRHnavo_1LFNNb_XcbwnHZDDiiCtmNx5wtH_uOc9w&oe=6A42F8F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "ribbed bandeau top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "pale yellow",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "strapless, fitted, ribbed texture",
+          "value": "fitted",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "strapless",
+          "count": 1
+        },
+        {
+          "value": "ribbed",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718935732_18666135175040453_5425568174929197112_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=DA98_5V5b3YQ7kNvwGBdnBt&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-0Ts9ZoR-Mzfu3Xq0Mgbx92WD6ED92c_jQLetQ6dfr6Q&oe=6A42EA57&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "textured tie-front blouse",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "v-neck, bell sleeves, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "v-neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718965021_18666135184040453_1371996688487542744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Pdf9yYx5My0Q7kNvwH60kmp&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9c55KhY_mON3bHRr9URSu2X9ltDWsbsrXIos1Q013tQw&oe=6A4303F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "wide-leg jeans",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "high-waisted, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "high-waisted",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718965021_18666135184040453_1371996688487542744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Pdf9yYx5My0Q7kNvwH60kmp&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9c55KhY_mON3bHRr9URSu2X9ltDWsbsrXIos1Q013tQw&oe=6A4303F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "bucket hat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718965021_18666135184040453_1371996688487542744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Pdf9yYx5My0Q7kNvwH60kmp&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9c55KhY_mON3bHRr9URSu2X9ltDWsbsrXIos1Q013tQw&oe=6A4303F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "woven sandals",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "open-toe, flat sole",
-          "count": 1
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718965021_18666135184040453_1371996688487542744_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Pdf9yYx5My0Q7kNvwH60kmp&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9c55KhY_mON3bHRr9URSu2X9ltDWsbsrXIos1Q013tQw&oe=6A4303F2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted white t-shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "crew neck, short sleeves",
+          "value": "crew neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718576677_18666135193040453_7413904583763120880_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=A7ECsqg06zoQ7kNvwEKD54M&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_Qmc2gvkMcaGJ1OYLTWtMcQyVUa7AeaO3R-VpmrvVVGw&oe=6A4315DA&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "light yellow drawstring joggers",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "light yellow",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "elastic waist, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718576677_18666135193040453_7413904583763120880_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=A7ECsqg06zoQ7kNvwEKD54M&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_Qmc2gvkMcaGJ1OYLTWtMcQyVUa7AeaO3R-VpmrvVVGw&oe=6A4315DA&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "knit cream sweater",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "cream",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "draped over shoulders, ribbed texture",
+          "value": "ribbed",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718576677_18666135193040453_7413904583763120880_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=A7ECsqg06zoQ7kNvwEKD54M&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_Qmc2gvkMcaGJ1OYLTWtMcQyVUa7AeaO3R-VpmrvVVGw&oe=6A4315DA&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "textured open-front tie blouse",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "long sleeves, loose fit, v-neck",
+          "value": "loose",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "v-neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718855245_18666135202040453_2204945225746093284_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=BwCaujNp4r8Q7kNvwGtt4a5&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XAUYN9N7r0XZS6OhZqzkdN5AdGhBRKmz49MVscycHCg&oe=6A430CC5&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "ribbed strapless top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "pale yellow",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "fitted, crop length",
+          "value": "fitted",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719210368_18666135220040453_3410430404298235852_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=JogpsY-pzfIQ7kNvwF74FvU&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af82dNXeSuhSppikLO3n7sbrC0XehWGbJ3ROi_10UCIYjA&oe=6A42F8E3&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "relaxed drawstring trousers",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "pale yellow",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "elastic waistband, straight-leg",
+          "value": "straight-leg",
           "count": 1
+        },
+        {
+          "value": "straight",
+          "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719210368_18666135220040453_3410430404298235852_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=JogpsY-pzfIQ7kNvwF74FvU&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af82dNXeSuhSppikLO3n7sbrC0XehWGbJ3ROi_10UCIYjA&oe=6A42F8E3&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "oversized textured tie-front blouse",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "v-neck, long sleeves, open-front with tie closures",
+          "value": "v-neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718868644_18666135247040453_3094870075570866415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=JgxS_s40MDsQ7kNvwEscuXy&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-R-6A49xCdvFJm4HXaU6Z23imS3Dis6CHuke40pwWhsw&oe=6A42FA70&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "loose-knit sweater",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "crew neck, dropped shoulder, ribbed cuffs",
+          "value": "crew neck",
           "count": 1
+        },
+        {
+          "value": "ribbed",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718907186_18666135289040453_8701678264593516357_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=Jrb5ZZ_9gR4Q7kNvwFOrH6E&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_OM19mqtcBurHumse-6aWZZwvGRoCcixblUojXOcilOw&oe=6A42FD52&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted black t-shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "crew neck, short sleeves",
+          "value": "crew neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719173042_18666135256040453_3710923151875350464_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=yYB8DJQtn7MQ7kNvwGfR5G0&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9ND88SlTW5O1m4Sb_z8_M_bQBXj4LJfmvu73IEW3A58w&oe=6A430AC8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "wide-leg medium-wash jeans",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "medium-wash blue",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "high-waisted, classic five-pocket design",
+          "value": "high-waisted",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719173042_18666135256040453_3710923151875350464_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=yYB8DJQtn7MQ7kNvwGfR5G0&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9ND88SlTW5O1m4Sb_z8_M_bQBXj4LJfmvu73IEW3A58w&oe=6A430AC8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "satin cream scarf",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "cream",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/719173042_18666135256040453_3710923151875350464_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=yYB8DJQtn7MQ7kNvwGfR5G0&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9ND88SlTW5O1m4Sb_z8_M_bQBXj4LJfmvu73IEW3A58w&oe=6A430AC8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "high-waisted sweatpants",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "pale yellow",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "drawstring waist, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718659833_18666135313040453_4920029578318065556_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=cEfFqeH7G3IQ7kNvwEp2ahe&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_WvCegfkSXWf-PysRlYF_6GPd0GT5l94GRac3Ya91NWg&oe=6A430DBD&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "relaxed ribbed sweater",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "cream",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "crew neck, long sleeves, oversized fit",
+          "value": "oversized",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "crew neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718648911_18666135292040453_8142626029068674952_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=wwT622LK8HMQ7kNvwEn2JMq&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9XH-wLtK20VfsQTcl5SoEMOV_G5-CchOyGjRx9_AdoVw&oe=6A430EBA&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "high-waisted lounge pants",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "buttery yellow",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "drawstring waist, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/718648911_18666135292040453_8142626029068674952_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGoKmf7uhV1PNSY2WD21yqZnb8mCGO7MeG8Cp3YcOyXt-Bznu471_ARxx5IlaPLAIo&_nc_ohc=wwT622LK8HMQ7kNvwEn2JMq&_nc_gid=UAA5mign3lSjSLp9DR8DMQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9XH-wLtK20VfsQTcl5SoEMOV_G5-CchOyGjRx9_AdoVw&oe=6A430EBA&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless midi dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "boat neckline, fitted bodice, straight hem",
+          "value": "straight",
           "count": 1
+        },
+        {
+          "value": "fitted",
+          "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "boat neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722768582_18668457394040453_2491003724011596000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=7jZgHM0Z0xoQ7kNvwHUEq9n&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8ycNcSccCMzkRTk83Uslu3vyrldZrTHMbNLBYmkd_vEw&oe=6A42FF37&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "embossed leather loafers",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "dark brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "square toe, flat sole, slip-on style",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722768582_18668457394040453_2491003724011596000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=7jZgHM0Z0xoQ7kNvwHUEq9n&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8ycNcSccCMzkRTk83Uslu3vyrldZrTHMbNLBYmkd_vEw&oe=6A42FF37&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "tailored coat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "chocolate brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "collarless, mid-thigh length, buttonless front",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722768582_18668457394040453_2491003724011596000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=7jZgHM0Z0xoQ7kNvwHUEq9n&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8ycNcSccCMzkRTk83Uslu3vyrldZrTHMbNLBYmkd_vEw&oe=6A42FF37&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted white shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "long sleeves, classic cuff",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722490006_18668457403040453_9171943112672741515_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=nVkzk47aUPUQ7kNvwFG6afJ&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9D2u4oMXtNKc0Qy4HUoHKI_SUCKespmXrGbgQ4IC0Eqw&oe=6A431AD6&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "lace trim shawl",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "intricate lace pattern, draped style",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723066855_18668457412040453_1908104594022396465_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=rCPEC_EtPyMQ7kNvwHlXy4O&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_xbjVktjPqGOKMUrABDTBmPeTLz4oOm9hm5GGGXzdAUw&oe=6A42FFB4&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "striped sleeveless top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "narrow vertical stripes, deep scoop neckline",
+          "value": "scoop neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723066855_18668457412040453_1908104594022396465_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=rCPEC_EtPyMQ7kNvwHlXy4O&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_xbjVktjPqGOKMUrABDTBmPeTLz4oOm9hm5GGGXzdAUw&oe=6A42FFB4&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless fitted dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "round neckline, knee-length, simple silhouette",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/722909959_18668457430040453_137010541156056292_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=rxUH758ACUIQ7kNvwErRY5A&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_0Dde-s_p_yVX4DI-fgvJxb3O8Fi8QnA8uYkdiF-I9Eg&oe=6A431417&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "high-waisted pleated shorts",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "belt loops, tailored fit",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723208852_18668457439040453_2233127062848596268_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=c5snUooyAfAQ7kNvwHTVHY4&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_hsCjOj1CgMz2Z9hzxodnD7UiG80N2UxqubuKC8V8qfw&oe=6A42F6E2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "croc-embossed leather belt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "chocolate brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "gold-tone buckle",
-          "count": 1
+          "image_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/723208852_18668457439040453_2233127062848596268_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEgJBoJWQsIqbXi01zK-9isqVIkbnJshn6UxIZ6nE8zV70DLYg0VU2c7htfpcFbs_o&_nc_ohc=c5snUooyAfAQ7kNvwHTVHY4&_nc_gid=ExD9DSxFVOS4ox0L0fII4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_hsCjOj1CgMz2Z9hzxodnD7UiG80N2UxqubuKC8V8qfw&oe=6A42F6E2&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sheer lace shawl",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "intricate lace pattern, draped style",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/722809978_18668736112040453_1984907258179965124_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGNJg0LJd7-XTgdr_EktcU1N35X6RIMArczYRuGZoy54L8zNa_-jb8yjBSa7in4SF0&_nc_ohc=5K-IxcjdPREQ7kNvwE_8EYm&_nc_gid=obEEnzryEWTe8Ngzf0PPpw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VL5-ftp87tZ6EryDZbQS9wK0rTBbxtHMWJz9noiqOcQ&oe=6A430E78&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted cotton top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "white",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/722809978_18668736112040453_1984907258179965124_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGNJg0LJd7-XTgdr_EktcU1N35X6RIMArczYRuGZoy54L8zNa_-jb8yjBSa7in4SF0&_nc_ohc=5K-IxcjdPREQ7kNvwE_8EYm&_nc_gid=obEEnzryEWTe8Ngzf0PPpw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9VL5-ftp87tZ6EryDZbQS9wK0rTBbxtHMWJz9noiqOcQ&oe=6A430E78&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "draped maxi dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "muted beige",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "batwing sleeves, wrap style, thigh-high slit",
+          "value": "wrap",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723118609_18667574467040453_2668604045219434304_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=oEPnx6GLxjcQ7kNvwHRvvmI&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-zlTcoJOmWnOlLGSTsYCsW8HJxE-1nxRNOdH35mM4h6A&oe=6A42FADE&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "pointed-toe flats",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723118609_18667574467040453_2668604045219434304_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=oEPnx6GLxjcQ7kNvwHRvvmI&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-zlTcoJOmWnOlLGSTsYCsW8HJxE-1nxRNOdH35mM4h6A&oe=6A42FADE&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "structured clutch",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "metallic accents",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/723118609_18667574467040453_2668604045219434304_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=oEPnx6GLxjcQ7kNvwHRvvmI&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-zlTcoJOmWnOlLGSTsYCsW8HJxE-1nxRNOdH35mM4h6A&oe=6A42FADE&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "pointed-toe stiletto heels",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722666686_18667574476040453_3969089098638816844_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=MTsMzreYW1EQ7kNvwHMYE5v&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-aZv9pyqB6xsHOkYec_7VPeWT0Ktrkn0-1zdCzY_0JDQ&oe=6A42F902&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "draped long kaftan dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "camel",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "v-neck, batwing sleeves, front slit",
+          "value": "v-neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722666676_18667574494040453_8652722090457150000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=D7Z14HMTHtUQ7kNvwHfUpai&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8fkINwheIkaTRiTWS4N2t6bVSWJ9PZpZ_dcIK11NleTA&oe=6A431423&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleek clutch bag",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722666676_18667574494040453_8652722090457150000_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=D7Z14HMTHtUQ7kNvwHfUpai&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8fkINwheIkaTRiTWS4N2t6bVSWJ9PZpZ_dcIK11NleTA&oe=6A431423&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "fitted black slip dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "spaghetti straps, midi length",
+          "value": "midi",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722469439_18667574521040453_4079045642802390226_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=VPsrO84pRw4Q7kNvwGCQUor&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af90hSTbDqR8X5vWiUs4SPGAlwLPgQgeji1EWnme4_wXBA&oe=6A42F4EB&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "classic black suit",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "tailored fit",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722469439_18667574521040453_4079045642802390226_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=VPsrO84pRw4Q7kNvwGCQUor&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af90hSTbDqR8X5vWiUs4SPGAlwLPgQgeji1EWnme4_wXBA&oe=6A42F4EB&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "black formal shoes",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "leather, pointed toe",
+          "value": "leather",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722469439_18667574521040453_4079045642802390226_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=VPsrO84pRw4Q7kNvwGCQUor&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af90hSTbDqR8X5vWiUs4SPGAlwLPgQgeji1EWnme4_wXBA&oe=6A42F4EB&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "red stiletto sandals",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "red",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "ankle strap, open toe",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/722469439_18667574521040453_4079045642802390226_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=VPsrO84pRw4Q7kNvwGCQUor&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af90hSTbDqR8X5vWiUs4SPGAlwLPgQgeji1EWnme4_wXBA&oe=6A42F4EB&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "spaghetti strap slip dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "v-neckline, satin fabric",
+          "value": "v-neck",
           "count": 1
+        },
+        {
+          "value": "satin",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724164304_18667574551040453_2905564372395946937_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=huSu1jYI_wAQ7kNvwH1Egax&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WsQ-q8uJY17bwZm-1ovecYbGuz5fRswm6SfGUMzmTxw&oe=6A4317DF&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "single-breasted suit jacket",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "dark grey",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "notched lapels, pocket on left chest",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724164304_18667574551040453_2905564372395946937_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=huSu1jYI_wAQ7kNvwH1Egax&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WsQ-q8uJY17bwZm-1ovecYbGuz5fRswm6SfGUMzmTxw&oe=6A4317DF&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "classic white dress shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "white",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724164304_18667574551040453_2905564372395946937_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=huSu1jYI_wAQ7kNvwH1Egax&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WsQ-q8uJY17bwZm-1ovecYbGuz5fRswm6SfGUMzmTxw&oe=6A4317DF&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "polka dot tie",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black with white dots",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "narrow width",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724164304_18667574551040453_2905564372395946937_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=huSu1jYI_wAQ7kNvwH1Egax&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WsQ-q8uJY17bwZm-1ovecYbGuz5fRswm6SfGUMzmTxw&oe=6A4317DF&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "crochet cloche hat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "beige",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "floral appliqué, tassel details",
+          "value": "floral",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/724164304_18667574551040453_2905564372395946937_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuP8tCBvlcq1hQ4Ewm87zSFizRU3jHoYeghVwq7VHl0jqwBH-N9slsBKMC1weXQ_k&_nc_ohc=huSu1jYI_wAQ7kNvwH1Egax&_nc_gid=qVHL6cPia1zV53Xr-AGJkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8WsQ-q8uJY17bwZm-1ovecYbGuz5fRswm6SfGUMzmTxw&oe=6A4317DF&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted long-sleeve shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "crisp white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "classic collar, button-up front",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721323153_18666672496040453_634308362739883939_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=AjnoVNtEZukQ7kNvwF2YZ6e&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-SwrSty56nRm3NAgFQKHeodr2bh1Q6lLuQoArM_CojwQ&oe=6A42F689&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleek leather belt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "chocolate brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "gold-tone buckle",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721323153_18666672496040453_634308362739883939_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=AjnoVNtEZukQ7kNvwF2YZ6e&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-SwrSty56nRm3NAgFQKHeodr2bh1Q6lLuQoArM_CojwQ&oe=6A42F689&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted crew-neck short-sleeve top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719970275_18666672514040453_437539166936399144_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=Bd0Qmd-xchoQ7kNvwGF7t4K&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9pk6ZnvhR-YjNC9V1tSyseK3EvrKQnQn-2IcemN4mHig&oe=6A430F0C&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "high-waisted fitted mini skirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719970275_18666672514040453_437539166936399144_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=Bd0Qmd-xchoQ7kNvwGF7t4K&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9pk6ZnvhR-YjNC9V1tSyseK3EvrKQnQn-2IcemN4mHig&oe=6A430F0C&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "pointed-toe kitten heels",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "minimalist design",
+          "value": "mini",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/719970275_18666672514040453_437539166936399144_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=Bd0Qmd-xchoQ7kNvwGF7t4K&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9pk6ZnvhR-YjNC9V1tSyseK3EvrKQnQn-2IcemN4mHig&oe=6A430F0C&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted sleeveless black top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "scoop neckline",
+          "value": "scoop neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/720398826_18666672523040453_7242037433978489333_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=qnR0VzVljVIQ7kNvwGpT1Nk&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_LutaL4IWAfiKTOaogi2UpghjA8WTq-OrBo6HoW2vkvg&oe=6A42F474&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted cotton t-shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "crew neck, short sleeves, cropped hem",
+          "value": "cropped",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "crew neck",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721310507_18666672541040453_2141562615836421415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=5yjD6uQpeOMQ7kNvwHJubge&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8wpbz22DPpQwzZ7wadBMHbDq7ecROL00m0UPCr_85kbA&oe=6A43097E&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "high-waisted cotton shorts",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "elastic waistband, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/721310507_18666672541040453_2141562615836421415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE8qYk7-ofNPIwxHYtkIryZA8BerxqmY68JDQPk01NMV9J7onsCgblfjTHnGEAG7RI&_nc_ohc=5yjD6uQpeOMQ7kNvwHJubge&_nc_gid=DX24TMerk29EiLjbqBlBuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8wpbz22DPpQwzZ7wadBMHbDq7ecROL00m0UPCr_85kbA&oe=6A43097E&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "ribbed deep v-neck top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "deep v-neckline, textured fabric, sleeveless",
+          "value": "v-neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/731014416_18671059690040453_5611258087791489649_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=dBQtuSvUeI4Q7kNvwFd2gBm&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9Ae7YC4Z23M8CQTEFFn7O6o0-itymG-mg-ZaMjNHCdVA&oe=6A42E499&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless knit top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "v-neck, textured fabric",
+          "value": "v-neck",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730917263_18671059699040453_6518446436997416338_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=QPwAvHyPLOIQ7kNvwH4C_em&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-ElyAOSJ9ynF-l6L-DmKnAk3MF1jx4TGIlmg2y_suvNQ&oe=6A42F281&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "knit sleeveless top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "v-neck, ribbed texture",
+          "value": "v-neck",
           "count": 1
+        },
+        {
+          "value": "ribbed",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/730598564_18671059726040453_7110247111424978767_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEK6oRKRV0-WktmsT_N98ycXZYd7DkfqF1aYh1GLDOqrvJt3NG6ZYIHzQxNlNMHLMk&_nc_ohc=RlyLaaXzk7oQ7kNvwFne1bh&_nc_gid=UHTXn1-61r1ZR9GjvfDcuA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_j5NEWLqQay43pjXVpiBQ15TGmgKtE9FD-7dOJ9Xdbsw&oe=6A42F5F8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted cotton shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "classic collar, button-down front",
+          "value": "button-down",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/721348942_18666990955040453_1815317901131946387_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=AvQerZpEntsQ7kNvwH0mKLj&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_RDWpsXw3UrQVJ0lkCgDkduXkOSaPk-vRsv_9go_mdmA&oe=6A43115A&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "fitted cotton button-up shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "classic collar, long sleeves, button-up front",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720712138_18666990940040453_7772438274437632761_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=zfU2dWdKkCsQ7kNvwFZFaoj&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-JKsAiRnOz0-wtVez0Jy8Wfw5gjP6h6OZaEmIIj2u4Rw&oe=6A42FBCC&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "pleated cotton trousers",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "high-waisted, straight-leg, belt loops",
+          "value": "straight-leg",
           "count": 1
+        },
+        {
+          "value": "straight",
+          "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "high-waisted",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720712138_18666990940040453_7772438274437632761_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=zfU2dWdKkCsQ7kNvwFZFaoj&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-JKsAiRnOz0-wtVez0Jy8Wfw5gjP6h6OZaEmIIj2u4Rw&oe=6A42FBCC&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "croco-embossed leather belt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "chocolate brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "square buckle, textured design",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720712138_18666990940040453_7772438274437632761_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=zfU2dWdKkCsQ7kNvwFZFaoj&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-JKsAiRnOz0-wtVez0Jy8Wfw5gjP6h6OZaEmIIj2u4Rw&oe=6A42FBCC&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "classic cotton button-up shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "crisp white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "button-down collar, long sleeves, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "button-down",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720427164_18666990979040453_2612793860402227109_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=c7N0N4R38HQQ7kNvwFKQw3H&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XLHXhF9IGtzqdCKI_B9Dld0gysf0c0x56Q_lhOgNUEA&oe=6A431771&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "tailored high-waisted trousers",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "crisp white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "pleated front, straight-leg, belt loops",
+          "value": "straight-leg",
           "count": 1
+        },
+        {
+          "value": "straight",
+          "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "pleated",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720427164_18666990979040453_2612793860402227109_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=c7N0N4R38HQQ7kNvwFKQw3H&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XLHXhF9IGtzqdCKI_B9Dld0gysf0c0x56Q_lhOgNUEA&oe=6A431771&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "embossed leather belt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "dark brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "gold buckle, crocodile texture, adjustable length",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720427164_18666990979040453_2612793860402227109_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=c7N0N4R38HQQ7kNvwFKQw3H&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-XLHXhF9IGtzqdCKI_B9Dld0gysf0c0x56Q_lhOgNUEA&oe=6A431771&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "oversized cotton shirt",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "classic collar, long sleeves, button-up front",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720387213_18666991012040453_2562023220406146280_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=JNXBTy5uxq4Q7kNvwHhGy7X&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-hz0j8sw4G5D5to6dyegYKrNIMg8-GQhb6DG0y9Y0gJw&oe=6A42E714&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "strappy heeled sandals",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "square toe, thin straps",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/720387213_18666991012040453_2562023220406146280_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF9M5qAkzSb4yhq56pAwou3_g2_2pyn7-Kge9MDktubcI5t3rCLfvUpPnvpx_en-QE&_nc_ohc=JNXBTy5uxq4Q7kNvwHhGy7X&_nc_gid=8BhAkQZ9_TpsdqB0y9fxJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-hz0j8sw4G5D5to6dyegYKrNIMg8-GQhb6DG0y9Y0gJw&oe=6A42E714&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless layered silk dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "ivory",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "asymmetrical hem, flowy silhouette",
+          "value": "asymmetric",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/727494125_18669365971040453_3150380186468931806_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=p-lJEyCFFj0Q7kNvwE9dEMe&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_BoOw2ti6a_0hVEvmj5OZktBUv4Y8yqUU-zLPM7zgZ_A&oe=6A42ECF4&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "cropped wide-leg trousers",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "sheer fabric, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "sheer",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/727494125_18669365971040453_3150380186468931806_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=p-lJEyCFFj0Q7kNvwE9dEMe&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_BoOw2ti6a_0hVEvmj5OZktBUv4Y8yqUU-zLPM7zgZ_A&oe=6A42ECF4&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "peep-toe platform heels",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "high heel, suede texture",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/727494125_18669365971040453_3150380186468931806_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=p-lJEyCFFj0Q7kNvwE9dEMe&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_BoOw2ti6a_0hVEvmj5OZktBUv4Y8yqUU-zLPM7zgZ_A&oe=6A42ECF4&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "flowy layered maxi dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "sleeveless, asymmetrical hem",
+          "value": "asymmetric",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/725946982_18669366004040453_6163839995742731548_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=dxQinfckjUYQ7kNvwGF-CuX&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_vwTGbzvhDLT60m5ZUXVm4TFoKcRGePLFdtjypdiB2fQ&oe=6A430F72&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "peep-toe mules",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "suede texture, slip-on style",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/725946982_18669366004040453_6163839995742731548_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=dxQinfckjUYQ7kNvwGF-CuX&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_vwTGbzvhDLT60m5ZUXVm4TFoKcRGePLFdtjypdiB2fQ&oe=6A430F72&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless wrap top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "asymmetrical neckline, draped fabric",
+          "value": "asymmetric",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/726969438_18669365995040453_409538123755295817_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=cYdVqNsKFfEQ7kNvwGwJVi9&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8KVYSGe8J5_KeKo0Xzim8mm6GakNArUTG1h9BfdKTuGA&oe=6A431289&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless layered top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "asymmetrical neckline, loose fit",
+          "value": "loose",
           "count": 1
+        }
+      ],
+      "top_style_features": [
+        {
+          "value": "asymmetric",
+          "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/723883594_18669366031040453_8032459833528115950_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=PRZ-ixxhLrYQ7kNvwG7eYQ_&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8RFRWHaOVWZHt2pjAon0o4stPNkqopfJlSKnxWf-UY2g&oe=6A431836&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "sleeveless v-neck top",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "draped fit, sleeveless design",
-          "count": 1
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/724685366_18669366040040453_9135531182011475171_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=Qn_-S7k-gk0Q7kNvwEUzwEh&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-eSALmgOZOYXtzmwQ-KiFtlzJuMjkogSFcTMYwppioDw&oe=6A431984&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "ballet flats",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "black",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/724685366_18669366040040453_9135531182011475171_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG9wG2jNY_URJoWpwAypfBLl5xVxE7GH3je5VKmUQYNRzZeKnos15EUQYRH4pKJyCk&_nc_ohc=Qn_-S7k-gk0Q7kNvwEUzwEh&_nc_gid=UIXMPeEWkFZJFfTJYKz35w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-eSALmgOZOYXtzmwQ-KiFtlzJuMjkogSFcTMYwppioDw&oe=6A431984&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "oversized light beige kaftan",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "light beige",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "loose fit, elbow-length sleeves",
+          "value": "loose",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729437679_18670751446040453_7821996011122834317_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=kchr8IRYcmkQ7kNvwEUZCo9&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-jfPVA1zbchICrUFPM2n4p_RhvoQYhNKkNf1afeTCzbA&oe=6A42E52F&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "woven bucket hat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "taupe",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "crochet texture, close-fitting",
+          "value": "crochet",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729437679_18670751446040453_7821996011122834317_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=kchr8IRYcmkQ7kNvwEUZCo9&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-jfPVA1zbchICrUFPM2n4p_RhvoQYhNKkNf1afeTCzbA&oe=6A42E52F&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "textured ballet flats",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "chocolate brown",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "rounded toe, embossed texture",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729437679_18670751446040453_7821996011122834317_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=kchr8IRYcmkQ7kNvwEUZCo9&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af-jfPVA1zbchICrUFPM2n4p_RhvoQYhNKkNf1afeTCzbA&oe=6A42E52F&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "loose woven maxi coat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "ecru",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "wide half sleeves, open front",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/730244724_18670751464040453_1969168582348384156_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=tu2zw9eEJpEQ7kNvwGFl6Ih&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8NGzyoyN69yzTnx-gyz5_a-XfD89qgK_ari0L6ePKKqQ&oe=6A42FCE8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "ribbed midi dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "off-white",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "slim fit, visible beneath coat",
+          "value": "slim",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/730244724_18670751464040453_1969168582348384156_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=tu2zw9eEJpEQ7kNvwGFl6Ih&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8NGzyoyN69yzTnx-gyz5_a-XfD89qgK_ari0L6ePKKqQ&oe=6A42FCE8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "textured slip-on flats",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "chocolate brown",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/730244724_18670751464040453_1969168582348384156_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=tu2zw9eEJpEQ7kNvwGFl6Ih&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8NGzyoyN69yzTnx-gyz5_a-XfD89qgK_ari0L6ePKKqQ&oe=6A42FCE8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "structured clutch bag",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "taupe",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "zip closure",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/730244724_18670751464040453_1969168582348384156_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=tu2zw9eEJpEQ7kNvwGFl6Ih&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8NGzyoyN69yzTnx-gyz5_a-XfD89qgK_ari0L6ePKKqQ&oe=6A42FCE8&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "oversized cream kaftan dress",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "cream",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "wide sleeves, floor-length, relaxed fit",
+          "value": "relaxed",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729867606_18670751455040453_1071966645123807771_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=aH5OtwqGFZEQ7kNvwH9f11A&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9nDr4kpuJVkAqfp9fgU7wm0qaMG_UZxm6xdUMQlHqd4A&oe=6A431568&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "chunky taupe crochet bucket hat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "taupe",
           "count": 1
         }
       ],
-      "top_styles": []
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729867606_18670751455040453_1071966645123807771_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=aH5OtwqGFZEQ7kNvwH9f11A&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9nDr4kpuJVkAqfp9fgU7wm0qaMG_UZxm6xdUMQlHqd4A&oe=6A431568&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
+        }
+      ]
     },
     {
       "garment_type": "oversized olive leather clutch",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "olive",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [
         {
-          "value": "zip closure, wrist strap, minimalist design",
+          "value": "mini",
           "count": 1
+        }
+      ],
+      "top_style_features": [],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/729867606_18670751455040453_1071966645123807771_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=aH5OtwqGFZEQ7kNvwH9f11A&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9nDr4kpuJVkAqfp9fgU7wm0qaMG_UZxm6xdUMQlHqd4A&oe=6A431568&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "oversized cream cape",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "cream",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [],
+      "example_images": [
         {
-          "value": "draped fit, short sleeves",
-          "count": 1
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/728627390_18670751473040453_6287088749791157371_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=DXplVflGQLcQ7kNvwFVwfp1&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8s1LoremN5wfYCV3w7zqafH7EFrH4BaBwzuSzY-cBktw&oe=6A42ECD1&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     },
     {
       "garment_type": "textured beige bucket hat",
-      "count": 1,
+      "post_count": 1,
+      "unique_influencer_count": 1,
       "top_colours": [
         {
           "value": "beige",
           "count": 1
         }
       ],
-      "top_styles": [
+      "top_fits": [],
+      "top_style_features": [
         {
-          "value": "crocheted texture",
+          "value": "crochet",
           "count": 1
+        }
+      ],
+      "example_images": [
+        {
+          "image_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/728627390_18670751473040453_6287088749791157371_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEm85zu4Ze4iM0yPf3SDgmE6syu5yFtSbLhzD_cGrEe5Mq1y3Zk9BgecZYcY_rnl-U&_nc_ohc=DXplVflGQLcQ7kNvwFVwfp1&_nc_gid=TGDfAfJ626GSoLQuWa2qmA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8s1LoremN5wfYCV3w7zqafH7EFrH4BaBwzuSzY-cBktw&oe=6A42ECD1&_nc_sid=10d13b",
+          "username": "christietyler",
+          "likes_count": -1,
+          "comments_count": null,
+          "reposts_count": null,
+          "follower_count": 417000,
+          "engagement_score": 0.0
         }
       ]
     }

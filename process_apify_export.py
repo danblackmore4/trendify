@@ -154,6 +154,9 @@ def main():
             "username": username,
             "follower_count": influencers.get(username.lower()),
             "likes_count": post.get("likesCount"),
+            "comments_count": post.get("commentsCount"),
+            # Apify does not export a reposts/shares field — reposts_count will always be 0
+            "reposts_count": 0,
             "post_url": post.get("url") or post.get("shortCode", ""),
             "timestamp": post.get("timestamp") or post.get("taken_at_timestamp") or "",
             "images": [None] * len(image_urls),
@@ -183,6 +186,8 @@ def main():
 
             post = post_results[post_idx]
             image_result["likes_count"] = post["likes_count"]
+            image_result["comments_count"] = post["comments_count"]
+            image_result["reposts_count"] = post["reposts_count"]
             image_result["follower_count"] = post["follower_count"]
             post_results[post_idx]["images"][img_idx] = image_result
 
