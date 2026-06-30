@@ -225,6 +225,19 @@ def main():
 
     print(f"\nAll images processed.")
 
+    # Attach outfit_combination to each post now that all images are complete
+    for post in post_results.values():
+        seen = set()
+        for image in post["images"]:
+            if not image or not isinstance(image.get("clothing"), list):
+                continue
+            for item in image["clothing"]:
+                if isinstance(item, dict):
+                    gt = (item.get("garment_type") or "").strip().lower()
+                    if gt:
+                        seen.add(gt)
+        post["outfit_combination"] = sorted(seen)
+
     # Serialise back into original post order, dropping posts with no images
     ordered_results = [
         post_results[i]
