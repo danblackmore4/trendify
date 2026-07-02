@@ -37,14 +37,26 @@ def download_image(image_url: str) -> tuple[str, str]:
     return local_path, content_type
 
 
-def identify_clothing(image_url: str) -> str:
+def load_image(image_source: str) -> tuple[bytes, str]:
+    """Return (raw_bytes, mime_type) for a URL or a local file path."""
+    if image_source.startswith("http"):
+        local_path, mime_type = download_image(image_source)
+        with open(local_path, "rb") as f:
+            return f.read(), mime_type
+    else:
+        mime_type, _ = mimetypes.guess_type(image_source)
+        mime_type = mime_type or "image/jpeg"
+        with open(image_source, "rb") as f:
+            return f.read(), mime_type
+
+
+def identify_clothing(image_source: str) -> str:
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("OPENAI_API_KEY not found — add it to a .env file in the project root")
 
-    local_path, mime_type = download_image(image_url)
-    with open(local_path, "rb") as f:
-        b64_image = base64.b64encode(f.read()).decode("utf-8")
+    raw_bytes, mime_type = load_image(image_source)
+    b64_image = base64.b64encode(raw_bytes).decode("utf-8")
 
     payload = {
         "model": "gpt-4o",
@@ -57,31 +69,63 @@ def identify_clothing(image_url: str) -> str:
                         "text": (
                             "You are a fashion analyst helping to identify clothing for trend tracking. "
                             "Identify every clothing item and pair of shoes visible in this image. "
-                            "Return a JSON array where each element has exactly these three keys:\n\n"
-                            '  "garment_type"  — always combine fit + fabric + garment name into a single specific phrase. '
-                            "Never use bare generic terms like 'top', 'pants', 'shoes', 'jacket', 'dress'. "
-                            "Always be specific enough that someone could search this phrase on ASOS and find the item. "
-                            "Examples of good values: "
-                            '"oversized linen shirt", "wide-leg cream trousers", "ribbed crop top", '
-                            '"fitted mock-neck long-sleeve top", "high-waisted tailored cigarette trousers", '
-                            '"distressed straight-leg jeans", "floaty midi wrap dress", "chunky platform loafers", '
-                            '"pointed-toe kitten heels", "ballet flats", "strappy heeled sandals", '
-                            '"relaxed cotton chinos", "pleated mini skirt", "oversized blazer", '
-                            '"fitted leather biker jacket", "knit cardigan", "ruched bodycon mini dress". '
-                            "If fabric is not clearly visible, omit it rather than guessing.\n\n"
-                            '  "colour"        — always return the precise shade, never a generic colour. '
+                            "Return a JSON array where each element has exactly these four keys:\n\n"
+
+                            '  "garment_type"  — you MUST pick the single closest matching value from the '
+                            "controlled vocabulary below. Do not invent new values, combine terms, or add "
+                            "descriptive words like 'oversized', 'fitted', 'linen', 'cropped', 'v-neck' — "
+                            "those details belong in style_details. The goal is consistent category labels "
+                            "across different images of the same item type.\n\n"
+                            "  Controlled vocabulary by category:\n"
+                            "  DRESSES: maxi dress, midi dress, mini dress, wrap dress, slip dress, "
+                            "shirt dress, bodycon dress, shift dress, sundress, kaftan dress, "
+                            "co-ord set, jumpsuit, playsuit\n"
+                            "  TOPS: crop top, tube top, fitted t-shirt, oversized t-shirt, "
+                            "longline t-shirt, blouse, button-up shirt, linen shirt, knit jumper, "
+                            "cardigan, vest top, bodysuit, polo shirt, hoodie, sweatshirt, "
+                            "corset top, halter top, off-shoulder top, tank top, cami top\n"
+                            "  BOTTOMS: wide-leg jeans, skinny jeans, straight-leg jeans, "
+                            "barrel-leg jeans, cargo trousers, tailored trousers, chinos, "
+                            "linen trousers, mini skirt, midi skirt, maxi skirt, denim skirt, "
+                            "pleated skirt, leather skirt, shorts, denim shorts, cycling shorts, "
+                            "leggings, wide-leg trousers\n"
+                            "  FOOTWEAR: trainers, loafers, sandals, strappy sandals, mules, "
+                            "heels, block heels, kitten heels, boots, ankle boots, knee-high boots, "
+                            "flip flops, ballet flats, platform shoes, mary janes, espadrilles, "
+                            "slip-on shoes\n"
+                            "  OUTERWEAR: blazer, oversized blazer, denim jacket, leather jacket, "
+                            "trench coat, puffer jacket, wool coat, bomber jacket, shacket, "
+                            "longline coat, faux fur coat, rain jacket\n"
+                            "  ACCESSORIES: tote bag, crossbody bag, shoulder bag, clutch, "
+                            "mini bag, sunglasses, headscarf, belt, hat, cap, bucket hat, "
+                            "jewellery, watch, scarf\n\n"
+
+                            '  "colour"        — always return the precise shade, never a generic colour name. '
                             "Good examples: "
                             '"washed light blue", "camel", "off-white", "ecru", "sage green", "cobalt blue", '
                             '"chocolate brown", "dusty rose", "slate grey", "burgundy", "mustard yellow", '
-                            '"forest green", "blush pink", "charcoal", "rust orange", "navy". '
-                            'Bad examples (too vague — never use these): "blue", "white", "brown", "green", "grey".\n\n'
-                            '  "style_details" — one sentence capturing any remaining detail useful for search: '
-                            "neckline, hem length, waistline, closures, print, texture, or notable features. "
+                            '"forest green", "blush pink", "charcoal", "rust orange", "navy", "butter yellow". '
+                            'Never use bare colour names like "blue", "white", "brown", "green", "grey".\n\n'
+
+                            '  "style_details" — a short comma-separated phrase capturing everything descriptive '
+                            "that did NOT go into garment_type: fit, fabric, neckline, hem length, waistline, "
+                            "closures, print, texture, and any notable features. "
+                            "This is where 'oversized', 'cropped', 'v-neck', 'linen', 'ribbed', 'high-waisted', "
+                            "'distressed', 'wide-leg', 'pleated', 'square toe' etc all live. "
                             'Examples: "v-neck, cropped hem, ruched side seam", '
-                            '"high-waisted, wide-leg, subtle pinstripe", '
+                            '"high-waisted, wide-leg, subtle pinstripe, linen", '
                             '"square toe, block heel, ankle strap", '
-                            '"oversized fit, dropped shoulders, chest pocket". '
+                            '"oversized fit, dropped shoulders, chest pocket, cotton". '
                             "Leave as an empty string if nothing else is notable.\n\n"
+
+                            '  "season"        — classify based on fabric, weight, and style as exactly one of: '
+                            '"warm-weather", "cold-weather", or "all-season". '
+                            "Lightweight or open pieces (linen, voile, mesh, sandals, shorts, strappy tops) = warm-weather. "
+                            "Heavy or insulating pieces (wool, fleece, padded, thick knit, coats, boots) = cold-weather. "
+                            "Everything wearable year-round with light layering (cotton tees, mid-weight jeans, "
+                            "blazers, loafers, simple dresses) = all-season. "
+                            "If uncomfortable in cool weather without a layer, choose warm-weather over all-season.\n\n"
+
                             "Include every item that is at least partially visible. "
                             'If no clothing or shoes are visible at all, return the string "no clothing detected" '
                             "instead of a JSON array."
