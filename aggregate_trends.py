@@ -1,3 +1,7 @@
+# Reads clothing_results.json and produces a trends summary.
+# For each garment type it builds a "trend card" with post count, unique influencer
+# count, top colours, top fits, top style features, and example images ranked by engagement.
+
 import json
 import os
 import re
@@ -6,8 +10,8 @@ from collections import defaultdict, Counter
 INPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "clothing_results.json")
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "trends_summary.json")
 
-# Longer / hyphenated phrases must come before any shorter word they contain
-# so substring matching doesn't double-count (e.g. "wide-leg" before "wide").
+# Longer/hyphenated phrases are listed before shorter ones that contain them,
+# so "wide-leg" is matched before "wide" and we don't accidentally double-count
 KNOWN_FITS = [
     "wide-leg", "straight-leg", "slim-fit", "three-quarter", "full-length",
     "oversized", "cropped", "fitted", "relaxed", "tapered", "straight",
@@ -27,20 +31,18 @@ KNOWN_FEATURES = [
     "turtleneck", "collared", "ruffled",
 ]
 
-# Sort longest first so a greedy substring scan matches the most specific phrase
+# Sort longest first so multi-word phrases are checked before their component words
 KNOWN_FITS = sorted(KNOWN_FITS, key=len, reverse=True)
 KNOWN_FEATURES = sorted(KNOWN_FEATURES, key=len, reverse=True)
 
 
 def engagement_score(likes, comments, reposts, followers) -> float | None:
-    """Weighted engagement score as a percentage of followers.
-    Formula: (likes + comments*3 + reposts*5) / followers * 100
-    Treats likes of -1 or None as 0 (Instagram hidden like counts).
-    Returns None if followers is missing or zero.
-    """
+    # Weighted formula that accounts for Instagram hiding like counts (-1 means hidden).
+    # Comments and reposts are weighted higher because they represent stronger intent
+    # than a passive like. Returns None if we don't have follower data to normalise against.
     if not followers:
         return None
-    l = max(likes or 0, 0)   # -1 means hidden; treat as 0
+    l = max(likes or 0, 0)  # treat -1 (hidden likes) as 0
     c = comments or 0
     r = reposts or 0
     return round((l + c * 3 + r * 5) / followers * 100, 4)
@@ -51,7 +53,8 @@ def counter_to_ranked(counter: Counter, limit: int) -> list[dict]:
 
 
 def extract_terms(text: str, terms: list[str]) -> list[str]:
-    """Return every term from `terms` that appears in `text` (case-insensitive)."""
+    # Use regex rather than plain "in" so we don't match substrings accidentally,
+    # e.g. "slim" inside "slim-fit" being counted separately
     found = []
     for term in terms:
         if re.search(re.escape(term), text, re.IGNORECASE):
@@ -60,7 +63,8 @@ def extract_terms(text: str, terms: list[str]) -> list[str]:
 
 
 def collect_post_items(post: dict) -> dict[str, tuple[dict, dict]]:
-    """Return {garment_type: (clothing_item, image)} for this post, one entry per garment type."""
+    # Returns one item per garment type for this post — if the same garment
+    # appears in multiple carousel images we only count it once per post
     seen: dict[str, tuple[dict, dict]] = {}
     for image in post.get("images", []):
         clothing = image.get("clothing", [])
@@ -71,6 +75,7 @@ def collect_post_items(post: dict) -> dict[str, tuple[dict, dict]]:
                 continue
             garment_type = (item.get("garment_type") or "").strip().lower()
             if garment_type and garment_type not in seen:
+                # Keep a reference to the image too so we can read engagement metrics later
                 seen[garment_type] = (item, image)
     return seen
 
@@ -105,6 +110,7 @@ def build_trends(posts: list[dict]) -> tuple[dict, list[dict]]:
             if colour:
                 type_colours[garment_type][colour] += 1
 
+            # Pull fits and features out of the free-text style_details field
             for fit in extract_terms(style_details, KNOWN_FITS):
                 type_fits[garment_type][fit] += 1
 
@@ -125,6 +131,7 @@ def build_trends(posts: list[dict]) -> tuple[dict, list[dict]]:
 
     garment_list = []
     for garment_type, count in type_counts.most_common():
+        # Pick the 3 highest-engagement images as examples for this garment type
         examples = sorted(
             type_examples[garment_type],
             key=lambda x: x["engagement_score"],

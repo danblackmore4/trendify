@@ -1,3 +1,7 @@
+# Reads clothing_results.json and counts which pairs of garment types appear
+# together most often across posts. This tells us which combinations are trending
+# as complete outfits, not just which individual items are popular.
+
 import json
 import os
 from collections import Counter
@@ -8,10 +12,9 @@ OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "outfit_c
 
 
 def get_outfit_garments(post: dict) -> list[str]:
-    """Return the deduplicated garment list for a post.
-    Uses the pre-built outfit_combination field if present, otherwise
-    falls back to collecting garment_types from images directly.
-    """
+    # Use the pre-built outfit_combination field if it exists — process_apify_export.py
+    # already deduplicates garments across carousel slides, so we don't want to redo that work.
+    # The fallback is for any posts processed before that field was added.
     if "outfit_combination" in post:
         return post["outfit_combination"]
 
@@ -39,6 +42,8 @@ def main():
 
     for post in posts:
         garments = get_outfit_garments(post)
+        # Sort before generating pairs so ("jeans", "loafers") and ("loafers", "jeans")
+        # always produce the same tuple and get counted together
         pairs = list(combinations(sorted(garments), 2))
         if pairs:
             posts_with_pairs += 1

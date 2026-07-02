@@ -1,0 +1,1048 @@
+[
+  {
+    "image": "D:\\danie\\trendify\\images\\pointed-toe_heeled_pumps__christietyler.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "light grey",
+          "style_details": "draped fit, long sleeves, floor length",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "heels",
+          "colour": "black",
+          "style_details": "pointed toe",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 4.419,
+      "input_tokens": 1312,
+      "output_tokens": 93,
+      "cost_usd": 0.00421
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "wrap dress",
+          "colour": "washed light blue",
+          "style_details": "floor-length, draped fabric",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "heels",
+          "colour": "black",
+          "style_details": "pointed toe, stiletto heel",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 5.123,
+      "input_tokens": 15054,
+      "output_tokens": 93,
+      "cost_usd": 0.002314
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\7de1fe98d2a3ffd6968bd7892d61da0b.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "ecru",
+          "style_details": "loose fit, wide sleeves, mid-length",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "ballet flats",
+          "colour": "chocolate brown",
+          "style_details": "textured fabric, round toe",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "bucket hat",
+          "colour": "camel",
+          "style_details": "textured fabric",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 3.089,
+      "input_tokens": 1312,
+      "output_tokens": 139,
+      "cost_usd": 0.00467
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "off-white",
+          "style_details": "loose fit, textured fabric",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "chocolate brown",
+          "style_details": "pointed toe, flat",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 3.605,
+      "input_tokens": 15054,
+      "output_tokens": 94,
+      "cost_usd": 0.002314
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\8a82df1de7daf3cc410c80c3c88a365e.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "button-up shirt",
+          "colour": "off-white",
+          "style_details": "loose fit, long sleeves, cotton",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "wide-leg trousers",
+          "colour": "off-white",
+          "style_details": "high-waisted, cotton",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "sandals",
+          "colour": "black",
+          "style_details": "minimal design",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "handbag",
+          "colour": "black",
+          "style_details": "structured, leather",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.732,
+      "input_tokens": 1312,
+      "output_tokens": 172,
+      "cost_usd": 0.005
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "button-up shirt",
+          "colour": "off-white",
+          "style_details": "long sleeves, collared, relaxed fit",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "wide-leg trousers",
+          "colour": "off-white",
+          "style_details": "high-waisted, full length, tailored",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "black",
+          "style_details": "flat, slide-on",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 4.101,
+      "input_tokens": 15054,
+      "output_tokens": 138,
+      "cost_usd": 0.002341
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\high-waisted_tailored_trousers__christietyler_1.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "fitted t-shirt",
+          "colour": "off-white",
+          "style_details": "short sleeves, ribbed texture",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "tailored trousers",
+          "colour": "white",
+          "style_details": "pleated, high-waisted",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "belt",
+          "colour": "chocolate brown",
+          "style_details": "crocodile texture, square buckle",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "tote bag",
+          "colour": "natural straw",
+          "style_details": "woven texture, structured",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 4.358,
+      "input_tokens": 1312,
+      "output_tokens": 181,
+      "cost_usd": 0.00509
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "fitted t-shirt",
+          "colour": "off-white",
+          "style_details": "",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "wide-leg trousers",
+          "colour": "washed light blue",
+          "style_details": "high-waisted, pleated",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "belt",
+          "colour": "chocolate brown",
+          "style_details": "crocodile texture",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 4.361,
+      "input_tokens": 15054,
+      "output_tokens": 131,
+      "cost_usd": 0.002337
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\high-waisted_tailored_trousers__christietyler.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "button-up shirt",
+          "colour": "off-white",
+          "style_details": "relaxed fit, cotton, long sleeves",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "tailored trousers",
+          "colour": "off-white",
+          "style_details": "pleated, high-waisted, belt loops",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "belt",
+          "colour": "chocolate brown",
+          "style_details": "gold buckle",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "jewellery",
+          "colour": "gold",
+          "style_details": "stacked choker necklace",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.229,
+      "input_tokens": 1312,
+      "output_tokens": 180,
+      "cost_usd": 0.00508
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "button-up shirt",
+          "colour": "white",
+          "style_details": "classic collar, long sleeves",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "tailored trousers",
+          "colour": "white",
+          "style_details": "high-waisted, pleated front",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "belt",
+          "colour": "brown",
+          "style_details": "leather, metal buckle",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 4.144,
+      "input_tokens": 15054,
+      "output_tokens": 132,
+      "cost_usd": 0.002337
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\draped_floor-length_dress__christietyler.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "silvery grey",
+          "style_details": "draped fit, v-neck, flowing sleeves",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "pointed shoes",
+          "colour": "black",
+          "style_details": "",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.916,
+      "input_tokens": 1312,
+      "output_tokens": 92,
+      "cost_usd": 0.0042
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "wrap dress",
+          "colour": "ecru",
+          "style_details": "kimono sleeves, draped fabric",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "heels",
+          "colour": "black",
+          "style_details": "pointed toe, stiletto heel",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.055,
+      "input_tokens": 15054,
+      "output_tokens": 94,
+      "cost_usd": 0.002314
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\draped_maxi_dress__christietyler.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "camel",
+          "style_details": "loose fit, draped sleeves, v-neck",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "heels",
+          "colour": "dark metallic",
+          "style_details": "pointed toe, stiletto heel",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "clutch",
+          "colour": "black",
+          "style_details": "",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 2.834,
+      "input_tokens": 1312,
+      "output_tokens": 133,
+      "cost_usd": 0.00461
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "wrap dress",
+          "colour": "camel",
+          "style_details": "floor-length, deep v-neck, flowing sleeves",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "black",
+          "style_details": "pointed toe, stilettos",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.699,
+      "input_tokens": 15054,
+      "output_tokens": 94,
+      "cost_usd": 0.002314
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\23108d76885d3bfd8c489953cb20be58.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "knit jumper",
+          "colour": "charcoal",
+          "style_details": "oversized fit, dropped shoulders",
+          "season": "cold-weather"
+        },
+        {
+          "garment_type": "headscarf",
+          "colour": "light grey",
+          "style_details": "",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "sunglasses",
+          "colour": "dark grey",
+          "style_details": "oversized frame",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.012,
+      "input_tokens": 1312,
+      "output_tokens": 128,
+      "cost_usd": 0.00456
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "top",
+          "colour": "charcoal",
+          "style_details": "rolled sleeves, relaxed fit",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "bottoms",
+          "colour": "charcoal",
+          "style_details": "high-waisted, bodycon fit",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "accessories",
+          "colour": "light grey",
+          "style_details": "silk, head wrap",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "accessories",
+          "colour": "light grey",
+          "style_details": "oversized, round frame, tinted lenses",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 5.667,
+      "input_tokens": 15054,
+      "output_tokens": 178,
+      "cost_usd": 0.002365
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\728e59bbd60355dfba2c1aa3bf5fdb64.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "blazer",
+          "colour": "light grey",
+          "style_details": "structured fit, padded shoulders, no lapels",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "shoulder bag",
+          "colour": "black",
+          "style_details": "gold hardware, structured shape, top handle",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "jewellery",
+          "colour": "silver",
+          "style_details": "hoop design, chunky",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "jewellery",
+          "colour": "silver",
+          "style_details": "multi-band cuff bracelet",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 4.86,
+      "input_tokens": 1312,
+      "output_tokens": 180,
+      "cost_usd": 0.00508
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "blazer",
+          "colour": "light grey",
+          "style_details": "structured fit, single-button closure, shawl collar",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.018,
+      "input_tokens": 15054,
+      "output_tokens": 53,
+      "cost_usd": 0.00229
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\697d66bd81473ea9ddc452511896ccbf.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "off-white",
+          "style_details": "loose fit, textured fabric",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "ballet flats",
+          "colour": "chocolate brown",
+          "style_details": "pointed toe",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "clutch",
+          "colour": "taupe",
+          "style_details": "smooth texture, no visible closure",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "bucket hat",
+          "colour": "taupe",
+          "style_details": "textured fabric",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 7.562,
+      "input_tokens": 1312,
+      "output_tokens": 176,
+      "cost_usd": 0.00504
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "kaftan dress",
+          "colour": "off-white",
+          "style_details": "open front, textured fabric, ankle length",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "dark brown",
+          "style_details": "slip-on, flat",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "accessories",
+          "colour": "taupe",
+          "style_details": "felt, bucket style",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "accessories",
+          "colour": "camel",
+          "style_details": "clutch bag, textured",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 5.379,
+      "input_tokens": 15054,
+      "output_tokens": 177,
+      "cost_usd": 0.002364
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\67c5e8e021b60fd924d905ad4ab00cb6.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "midi dress",
+          "colour": "off-white",
+          "style_details": "sleeveless, fitted, crew neck",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "loafers",
+          "colour": "dark brown",
+          "style_details": "leather finish",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "blazer",
+          "colour": "dark brown",
+          "style_details": "hanging on stand",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "loafers",
+          "colour": "black",
+          "style_details": "",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "oversized blazer",
+          "colour": "grey",
+          "style_details": "hanging on rack",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "button-up shirt",
+          "colour": "white",
+          "style_details": "hanging on rack",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "button-up shirt",
+          "colour": "light blue",
+          "style_details": "hanging on rack",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.492,
+      "input_tokens": 1312,
+      "output_tokens": 294,
+      "cost_usd": 0.00622
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "midi dress",
+          "colour": "off-white",
+          "style_details": "",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "dark brown",
+          "style_details": "square toe, flat",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 2.693,
+      "input_tokens": 15054,
+      "output_tokens": 84,
+      "cost_usd": 0.002308
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\satin_slip_dress__christietyler.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "slip dress",
+          "colour": "black",
+          "style_details": "thin straps, midi length",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "blazer",
+          "colour": "charcoal",
+          "style_details": "",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "heels",
+          "colour": "red",
+          "style_details": "pointed toe, stiletto heel",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "shoes",
+          "colour": "black",
+          "style_details": "formal style",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "hat",
+          "colour": "beige",
+          "style_details": "woven material",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 4.259,
+      "input_tokens": 1312,
+      "output_tokens": 203,
+      "cost_usd": 0.00531
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "slip dress",
+          "colour": "black",
+          "style_details": "spaghetti straps",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "suit",
+          "colour": "black",
+          "style_details": "tailored fit",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "red",
+          "style_details": "high heels, open toe",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 3.424,
+      "input_tokens": 15054,
+      "output_tokens": 126,
+      "cost_usd": 0.002334
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\fef62837e9710adef7b7906fc977dff8.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "midi dress",
+          "colour": "off-white",
+          "style_details": "square neckline, puff sleeves",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "loafers",
+          "colour": "black",
+          "style_details": "",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "bucket hat",
+          "colour": "taupe",
+          "style_details": "",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "shoulder bag",
+          "colour": "black",
+          "style_details": "",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 2.11,
+      "input_tokens": 1652,
+      "output_tokens": 157,
+      "cost_usd": 0.0057
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "maxi dress",
+          "colour": "off-white",
+          "style_details": "square neckline, short puff sleeves, tiered hem",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "black",
+          "style_details": "loafers, square toe",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "accessories",
+          "colour": "black",
+          "style_details": "shoulder bag",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.876,
+      "input_tokens": 26388,
+      "output_tokens": 135,
+      "cost_usd": 0.004039
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\eada9d8023bc0f8d4edfaa1950b54a2f.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "sleeveless top",
+          "colour": "off-white",
+          "style_details": "v-neck, ribbed texture",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "jewellery",
+          "colour": "silver",
+          "style_details": "",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 2.042,
+      "input_tokens": 1312,
+      "output_tokens": 87,
+      "cost_usd": 0.00415
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "bodycon dress",
+          "colour": "off-white",
+          "style_details": "v-neck, textured fabric",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 1.882,
+      "input_tokens": 15054,
+      "output_tokens": 49,
+      "cost_usd": 0.002288
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\224287d25f6283d4920e2f09b7b6398c.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "midi dress",
+          "colour": "off-white",
+          "style_details": "sleeveless, fitted, scoop neckline",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "tote bag",
+          "colour": "natural tan",
+          "style_details": "woven texture",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 2.019,
+      "input_tokens": 1312,
+      "output_tokens": 92,
+      "cost_usd": 0.0042
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "bodycon dress",
+          "colour": "white",
+          "style_details": "",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 1.681,
+      "input_tokens": 15054,
+      "output_tokens": 42,
+      "cost_usd": 0.002283
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\79289094ee4c188cf0b34547f69eb2dc.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "shorts",
+          "colour": "bright sky blue",
+          "style_details": "elastic waistband, button accents",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "trainers",
+          "colour": "dark chocolate brown",
+          "style_details": "woven texture",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.144,
+      "input_tokens": 1652,
+      "output_tokens": 89,
+      "cost_usd": 0.00502
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "shorts",
+          "colour": "washed light blue",
+          "style_details": "button closure, elastic waistband",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "dark brown",
+          "style_details": "woven texture, slip-on",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 3.397,
+      "input_tokens": 26388,
+      "output_tokens": 91,
+      "cost_usd": 0.004013
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\5014fc89e20652b34a5961befb54ece7.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "cami top",
+          "colour": "off-white",
+          "style_details": "sleeveless, loose fit",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "wide-leg trousers",
+          "colour": "off-white",
+          "style_details": "lightweight fabric",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "slip-on shoes",
+          "colour": "black",
+          "style_details": "",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 2.041,
+      "input_tokens": 1312,
+      "output_tokens": 128,
+      "cost_usd": 0.00456
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "top",
+          "colour": "off-white",
+          "style_details": "v-neck, lightweight",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "bottoms",
+          "colour": "off-white",
+          "style_details": "wide-leg, lightweight",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "navy",
+          "style_details": "slip-on shoes",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 3.656,
+      "input_tokens": 15054,
+      "output_tokens": 128,
+      "cost_usd": 0.002335
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\18ca081216548852d8628ae033264f07.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "midi dress",
+          "colour": "butter yellow",
+          "style_details": "sleeveless, subtle floral texture",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 2.821,
+      "input_tokens": 1652,
+      "output_tokens": 52,
+      "cost_usd": 0.00465
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "midi dress",
+          "colour": "butter yellow",
+          "style_details": "simple design, subtle texture",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 2.463,
+      "input_tokens": 26388,
+      "output_tokens": 50,
+      "cost_usd": 0.003988
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\8a82df1de7daf3cc410c80c3c88a365e.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "button-up shirt",
+          "colour": "off-white",
+          "style_details": "oversized fit, long sleeves, cotton",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "wide-leg trousers",
+          "colour": "off-white",
+          "style_details": "high-waisted, cotton",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "sandals",
+          "colour": "black",
+          "style_details": "minimalist design, flat sole",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "handbag",
+          "colour": "black",
+          "style_details": "structured, top handle",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 3.361,
+      "input_tokens": 1312,
+      "output_tokens": 177,
+      "cost_usd": 0.00505
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "button-up shirt",
+          "colour": "off-white",
+          "style_details": "long sleeves, collar",
+          "season": "all-season"
+        },
+        {
+          "garment_type": "wide-leg trousers",
+          "colour": "off-white",
+          "style_details": "high-waisted, pleated front",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "footwear",
+          "colour": "black",
+          "style_details": "flat, slip-on",
+          "season": "warm-weather"
+        },
+        {
+          "garment_type": "accessories",
+          "colour": "black",
+          "style_details": "structured, handbag style",
+          "season": "all-season"
+        }
+      ],
+      "time_seconds": 5.677,
+      "input_tokens": 15054,
+      "output_tokens": 173,
+      "cost_usd": 0.002362
+    }
+  },
+  {
+    "image": "D:\\danie\\trendify\\images\\7b0ef4170cde3274d9216a7e94167451.jpg",
+    "gpt4o": {
+      "result": [
+        {
+          "garment_type": "heels",
+          "colour": "red",
+          "style_details": "square toe, open heel, thin strap",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 1.301,
+      "input_tokens": 1312,
+      "output_tokens": 49,
+      "cost_usd": 0.00377
+    },
+    "gpt4o_mini": {
+      "result": [
+        {
+          "garment_type": "FOOTWEAR",
+          "colour": "ruby red",
+          "style_details": "high heel, strappy",
+          "season": "warm-weather"
+        }
+      ],
+      "time_seconds": 2.437,
+      "input_tokens": 15054,
+      "output_tokens": 50,
+      "cost_usd": 0.002288
+    }
+  }
+]

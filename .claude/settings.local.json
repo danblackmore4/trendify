@@ -4,7 +4,8 @@
       "Bash(pip install *)",
       "Bash(python -c ' *)",
       "Bash(python load_influencers.py)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Skill(claude-api)"
     ]
   }
 }

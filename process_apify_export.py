@@ -1,3 +1,8 @@
+# Takes the raw JSON export from Apify's Instagram scraper and runs every image
+# through a two-stage OpenAI pipeline: a cheap GPT-4o-mini pre-filter to skip
+# non-fashion images, then a full GPT-4o classification for the ones that pass.
+# Results are written to clothing_results.json.
+
 import json
 import re
 import os
@@ -16,12 +21,16 @@ load_dotenv()
 INPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "apify_export.json")
 OUTPUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "clothing_results.json")
 INFLUENCERS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "influencers.json")
+
+# 3 workers is the sweet spot — enough for parallelism without hammering the API
 MAX_WORKERS = 3
-RETRY_DELAYS = [5, 10, 20]  # seconds to wait before each successive retry
+RETRY_DELAYS = [5, 10, 20]  # seconds to wait before each successive retry on 429
 
 
 def call_with_retry(fn, *args):
-    """Call fn(*args), retrying on HTTP 429 with exponential backoff."""
+    # We hit 429s fairly often with concurrent workers, so retry with increasing
+    # delays rather than failing immediately. identify_clothing() wraps its HTTP
+    # errors as RuntimeErrors, so we check both the raw HTTPError and the message.
     last_exc = None
     for attempt, delay in enumerate([0] + RETRY_DELAYS):
         if delay:
@@ -35,7 +44,6 @@ def call_with_retry(fn, *args):
                 continue
             raise
         except RuntimeError as e:
-            # identify_clothing wraps HTTPError as RuntimeError("OpenAI API error 429: ...")
             if "429" in str(e):
                 last_exc = e
                 continue
@@ -44,7 +52,9 @@ def call_with_retry(fn, *args):
 
 
 def parse_week(timestamp: str) -> str | None:
-    """Return 'YYYY-WW' ISO week string from an ISO 8601 timestamp, or None if unparseable."""
+    # Converts an ISO 8601 timestamp to "YYYY-WW" format for weekly trend grouping.
+    # Python's datetime.fromisoformat doesn't handle the trailing "Z" before 3.11,
+    # so we replace it manually with the UTC offset.
     if not timestamp:
         return None
     try:
@@ -56,6 +66,7 @@ def parse_week(timestamp: str) -> str | None:
 
 
 def extract_username(post: dict) -> str:
+    # Try the most common field names first, then fall back to parsing the post URL
     username = (
         post.get("ownerUsername")
         or post.get("username")
@@ -70,6 +81,7 @@ def extract_username(post: dict) -> str:
 
 
 def extract_image_urls(post: dict) -> list[str]:
+    # Carousel posts have an "images" array; single-image posts only have "displayUrl"
     images = [img for img in (post.get("images") or []) if isinstance(img, str) and img]
     if images:
         return images
@@ -80,7 +92,8 @@ def extract_image_urls(post: dict) -> list[str]:
 
 
 def is_fashion_image(url: str) -> bool:
-    """Returns True if GPT-4o-mini thinks the image shows a person wearing an outfit."""
+    # Quick cheap check using GPT-4o-mini before spending money on the full classification.
+    # max_tokens=5 is enough for "YES" or "NO" and keeps this call very cheap.
     api_key = os.environ.get("OPENAI_API_KEY")
     local_path, mime_type = download_image(url)
     with open(local_path, "rb") as f:
@@ -123,7 +136,8 @@ def is_fashion_image(url: str) -> bool:
 
 
 def process_image(url: str) -> dict:
-    """Pre-filter then fully classify a single image. Always returns a dict, never raises."""
+    # This function is called concurrently by the thread pool — it must never raise,
+    # otherwise the whole executor would stop. Errors are returned as dicts instead.
     try:
         if not call_with_retry(is_fashion_image, url):
             return {"image_url": url, "clothing": [], "filtered": True}
@@ -134,7 +148,8 @@ def process_image(url: str) -> dict:
     except Exception as e:
         return {"image_url": url, "clothing": [], "error": str(e)}
     finally:
-        time.sleep(1)  # 1-second pause between images per worker
+        # Brief pause after every image regardless of outcome to avoid overwhelming the API
+        time.sleep(1)
 
 
 def main():
@@ -147,11 +162,9 @@ def main():
     print(f"Loaded {len(posts)} posts from {INPUT_FILE}")
     print(f"Loaded {len(influencers)} influencers from {INFLUENCERS_FILE}")
 
-    # Separate videos and build a flat work list of (image_url, post_metadata)
-    # so every image is an independent unit of work for the thread pool.
     skipped = 0
-    work_items = []  # list of (image_url, post_index, image_index)
-    post_results = {}  # keyed by post index, filled as futures complete
+    work_items = []
+    post_results = {}
 
     for i, post in enumerate(posts):
         if (post.get("type") or "").lower() == "video":
@@ -170,11 +183,12 @@ def main():
             "follower_count": influencers.get(username.lower()),
             "likes_count": post.get("likesCount"),
             "comments_count": post.get("commentsCount"),
-            # Apify does not export a reposts/shares field — reposts_count will always be 0
+            # Apify doesn't export a reposts/shares count, so this will always be 0
             "reposts_count": 0,
             "post_url": post.get("url") or post.get("shortCode", ""),
             "timestamp": raw_ts,
             "week": week,
+            # Pre-allocate slots so results land in the right position regardless of completion order
             "images": [None] * len(image_urls),
         }
         for j, url in enumerate(image_urls):
@@ -195,11 +209,13 @@ def main():
 
         for future in as_completed(future_to_item):
             post_idx, img_idx = future_to_item[future]
-            image_result = future.result()  # process_image never raises
+            image_result = future.result()
 
             if "error" in image_result:
                 print(f"\n  Error — {image_result['image_url']}: {image_result['error']}")
 
+            # Stamp post-level engagement fields onto the image so each image record
+            # is self-contained and doesn't need to be joined back to the post later
             post = post_results[post_idx]
             image_result["likes_count"] = post["likes_count"]
             image_result["comments_count"] = post["comments_count"]
@@ -225,7 +241,8 @@ def main():
 
     print(f"\nAll images processed.")
 
-    # Attach outfit_combination to each post now that all images are complete
+    # Build outfit_combination after all images are done — it needs the full picture
+    # of what was worn across every slide in a carousel post
     for post in post_results.values():
         seen = set()
         for image in post["images"]:
@@ -238,7 +255,7 @@ def main():
                         seen.add(gt)
         post["outfit_combination"] = sorted(seen)
 
-    # Serialise back into original post order, dropping posts with no images
+    # Sort back into original post order before writing — futures complete out of order
     ordered_results = [
         post_results[i]
         for i in sorted(post_results)
