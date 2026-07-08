@@ -143,8 +143,15 @@ def process_image(url: str) -> dict:
             return {"image_url": url, "clothing": [], "filtered": True}
         result = call_with_retry(identify_clothing, url)
         if result == "no clothing detected":
-            return {"image_url": url, "clothing": []}
-        return {"image_url": url, "clothing": result}
+            return {"image_url": url, "clothing": [], "is_good_example": False}
+        if isinstance(result, dict):
+            return {
+                "image_url": url,
+                "clothing": result.get("items", []),
+                "is_good_example": result.get("is_good_example", False),
+            }
+        # Fallback for any unexpected format (e.g. raw string that wasn't parseable)
+        return {"image_url": url, "clothing": result if isinstance(result, list) else []}
     except Exception as e:
         return {"image_url": url, "clothing": [], "error": str(e)}
     finally:

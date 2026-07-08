@@ -5,7 +5,13 @@
       "Bash(python -c ' *)",
       "Bash(python load_influencers.py)",
       "Bash(python *)",
-      "Skill(claude-api)"
+      "Skill(claude-api)",
+      "PowerShell(npm *)",
+      "PowerShell(Get-ChildItem \"D:\\\\danie\\\\trendify\\\\trendify-web\" -Recurse -Depth 3 | Where-Object { !$_.PSIsContainer } | Select-Object FullName | ForEach-Object { $_.FullName.Replace\\(\"D:\\\\danie\\\\trendify\\\\trendify-web\\\\\", \"\"\\) } | Where-Object { $_ -notmatch \"node_modules\" })",
+      "PowerShell(Start-Sleep -Seconds 3; $resp = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -ErrorAction Stop; \"Status: $\\($resp.StatusCode\\)\"; $resp.Content.Length; $resp.Content.Substring\\(0, 200\\))",
+      "PowerShell($resp = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing; $html = $resp.Content; @\\(\"Trendify\", \"Trending Now\", \"posts analysed\", \"sunglasses\", \"garment types\", \"font-playfair\", \"COLOUR\", \"Fit\"\\) | ForEach-Object { $match = $html.Contains\\($_\\); \"  '$_' found: $match\" })",
+      "PowerShell($resp = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing; $html = $resp.Content; @\\(\"Colour\", \"01\", \"influencer\", \"posts\", \"playfair_display\"\\) | ForEach-Object { $match = $html.Contains\\($_\\); \"  '$_' found: $match\" })",
+      "PowerShell($resp = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing -ErrorAction Stop; \"Status: $\\($resp.StatusCode\\)\"; $html = $resp.Content; @\\(\"Dresses\", \"Tops\", \"Bottoms\", \"Footwear\", \"Outerwear\", \"Accessories\", \"aria-label=`\"Previous image`\"\", \"aria-label=`\"Next image`\"\", \"1 type\", \"types\"\\) | ForEach-Object { \"  '$_': $\\($html.Contains\\($_\\)\\)\" })"
     ]
   }
 }

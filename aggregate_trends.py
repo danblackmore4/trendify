@@ -127,16 +127,29 @@ def build_trends(posts: list[dict]) -> tuple[dict, list[dict]]:
                     "reposts_count": reposts_count,
                     "follower_count": follower_count,
                     "engagement_score": score,
+                    # Internal fields used for example selection — stripped before writing to summary
+                    "_is_good_example": image.get("is_good_example", True),
+                    "_confidence": item.get("confidence", 1.0),
                 })
 
     garment_list = []
     for garment_type, count in type_counts.most_common():
-        # Pick the 3 highest-engagement images as examples for this garment type
-        examples = sorted(
+        all_candidates = sorted(
             type_examples[garment_type],
             key=lambda x: x["engagement_score"],
             reverse=True,
-        )[:3]
+        )
+        # Prefer images that are good examples (clear personal outfit photo) with high
+        # classification confidence. Fall back to all candidates if none qualify.
+        good_candidates = [
+            e for e in all_candidates
+            if e.get("_is_good_example", True) and e.get("_confidence", 1.0) > 0.7
+        ]
+        examples = (good_candidates if good_candidates else all_candidates)[:3]
+        # Strip the internal selection fields before writing to the summary
+        for e in examples:
+            e.pop("_is_good_example", None)
+            e.pop("_confidence", None)
 
         garment_list.append({
             "garment_type": garment_type,

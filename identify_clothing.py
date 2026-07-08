@@ -22,42 +22,57 @@ IMAGES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images")
 _VISION_PROMPT = (
     "You are a fashion analyst helping to identify clothing for trend tracking. "
     "Identify every clothing item and pair of shoes visible in this image. "
-    "Return a JSON array where each element has exactly these four keys:\n\n"
+    "Return a JSON object with exactly two top-level keys:\n\n"
+
+    # is_good_example applies to the whole image, not to individual items
+    '  "is_good_example" — a boolean that is true only if ALL three of the following hold:\n'
+    "    (1) the image shows at most two people,\n"
+    "    (2) at least 60 % of the main person's body is visible, and\n"
+    "    (3) the photo is a personal outfit photo — NOT a magazine cover, editorial shoot,\n"
+    "        group event, red-carpet photo, or campaign image.\n\n"
+
+    '  "items" — a JSON array where each element has exactly these five keys:\n\n'
 
     # garment_type uses a fixed vocabulary so that aggregation works correctly —
     # if the model invents its own descriptions every time, we end up with
     # "oversized linen shirt" and "relaxed linen shirt" as separate trends
     # instead of both counting towards "linen shirt"
-    '  "garment_type"  — you MUST pick the single closest matching value from the '
+    '    "garment_type"  — you MUST pick the single closest matching value from the '
     "controlled vocabulary below. Do not invent new values, combine terms, or add "
     "descriptive words like 'oversized', 'fitted', 'linen', 'cropped', 'v-neck' — "
     "those details belong in style_details. The goal is consistent category labels "
     "across different images of the same item type.\n\n"
-    "  Controlled vocabulary by category:\n"
-    "  DRESSES: maxi dress, midi dress, mini dress, wrap dress, slip dress, "
+    "    Vocabulary compliance rules:\n"
+    "    — You MUST choose from the provided list only; never invent new garment types.\n"
+    "    — If uncertain between two types, choose the one whose most visible defining\n"
+    "      feature (silhouette, length, structure) best matches. Do not split the difference.\n"
+    "    — If a garment is only partially visible or you cannot confidently identify it,\n"
+    "      omit it entirely rather than guessing.\n\n"
+    "    Controlled vocabulary by category:\n"
+    "    DRESSES: maxi dress, midi dress, mini dress, wrap dress, slip dress, "
     "shirt dress, bodycon dress, shift dress, sundress, kaftan dress, "
     "co-ord set, jumpsuit, playsuit\n"
-    "  TOPS: crop top, tube top, fitted t-shirt, oversized t-shirt, "
+    "    TOPS: crop top, tube top, fitted t-shirt, oversized t-shirt, "
     "longline t-shirt, blouse, button-up shirt, linen shirt, knit jumper, "
     "cardigan, vest top, bodysuit, polo shirt, hoodie, sweatshirt, "
     "corset top, halter top, off-shoulder top, tank top, cami top\n"
-    "  BOTTOMS: wide-leg jeans, skinny jeans, straight-leg jeans, "
+    "    BOTTOMS: wide-leg jeans, skinny jeans, straight-leg jeans, "
     "barrel-leg jeans, cargo trousers, tailored trousers, chinos, "
     "linen trousers, mini skirt, midi skirt, maxi skirt, denim skirt, "
     "pleated skirt, leather skirt, shorts, denim shorts, cycling shorts, "
     "leggings, wide-leg trousers\n"
-    "  FOOTWEAR: trainers, loafers, sandals, strappy sandals, mules, "
+    "    FOOTWEAR: trainers, loafers, sandals, strappy sandals, mules, "
     "heels, block heels, kitten heels, boots, ankle boots, knee-high boots, "
     "flip flops, ballet flats, platform shoes, mary janes, espadrilles, "
     "slip-on shoes\n"
-    "  OUTERWEAR: blazer, oversized blazer, denim jacket, leather jacket, "
+    "    OUTERWEAR: blazer, oversized blazer, denim jacket, leather jacket, "
     "trench coat, puffer jacket, wool coat, bomber jacket, shacket, "
     "longline coat, faux fur coat, rain jacket\n"
-    "  ACCESSORIES: tote bag, crossbody bag, shoulder bag, clutch, "
+    "    ACCESSORIES: tote bag, crossbody bag, shoulder bag, clutch, "
     "mini bag, sunglasses, headscarf, belt, hat, cap, bucket hat, "
     "jewellery, watch, scarf\n\n"
 
-    '  "colour"        — always return the precise shade, never a generic colour name. '
+    '    "colour"        — always return the precise shade, never a generic colour name. '
     "Good examples: "
     '"washed light blue", "camel", "off-white", "ecru", "sage green", "cobalt blue", '
     '"chocolate brown", "dusty rose", "slate grey", "burgundy", "mustard yellow", '
@@ -67,7 +82,7 @@ _VISION_PROMPT = (
     # style_details captures everything descriptive that intentionally
     # stays out of garment_type — this is what makes aggregation consistent
     # while still preserving the nuance for display
-    '  "style_details" — a short comma-separated phrase capturing everything descriptive '
+    '    "style_details" — a short comma-separated phrase capturing everything descriptive '
     "that did NOT go into garment_type: fit, fabric, neckline, hem length, waistline, "
     "closures, print, texture, and any notable features. "
     "This is where 'oversized', 'cropped', 'v-neck', 'linen', 'ribbed', 'high-waisted', "
@@ -78,7 +93,7 @@ _VISION_PROMPT = (
     '"oversized fit, dropped shoulders, chest pocket, cotton". '
     "Leave as an empty string if nothing else is notable.\n\n"
 
-    '  "season"        — classify based on fabric, weight, and style as exactly one of: '
+    '    "season"        — classify based on fabric, weight, and style as exactly one of: '
     '"warm-weather", "cold-weather", or "all-season". '
     "Lightweight or open pieces (linen, voile, mesh, sandals, shorts, strappy tops) = warm-weather. "
     "Heavy or insulating pieces (wool, fleece, padded, thick knit, coats, boots) = cold-weather. "
@@ -86,9 +101,17 @@ _VISION_PROMPT = (
     "blazers, loafers, simple dresses) = all-season. "
     "If uncomfortable in cool weather without a layer, choose warm-weather over all-season.\n\n"
 
-    "Include every item that is at least partially visible. "
+    '    "confidence"    — a number between 0 and 1 indicating how certain you are about '
+    "this specific garment_type classification. "
+    "1.0 = completely certain, the item is clearly visible and unambiguous. "
+    "0.7–0.9 = reasonably confident but some visual ambiguity. "
+    "Below 0.7 = the item is partially obscured, at an unusual angle, or could plausibly "
+    "be a different type from the vocabulary. "
+    "Only include an item if you can assign it a confidence of at least 0.5.\n\n"
+
+    "Only include items you can identify with reasonable confidence. "
     'If no clothing or shoes are visible at all, return the string "no clothing detected" '
-    "instead of a JSON array."
+    "instead of the JSON object."
 )
 
 
@@ -133,6 +156,8 @@ def load_image(image_source: str) -> tuple[bytes, str]:
 
 def classify_with_model(image_source: str, model: str = "gpt-4o") -> tuple:
     # Runs the full classification and returns (result, input_tokens, output_tokens, elapsed_seconds).
+    # result is either the string "no clothing detected" or a dict:
+    #   {"is_good_example": bool, "items": [{garment_type, colour, style_details, season, confidence}]}
     # Used by identify_clothing and by model_comparison.py so both always call the exact same prompt.
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
@@ -194,14 +219,21 @@ def classify_with_model(image_source: str, model: str = "gpt-4o") -> tuple:
         ).strip()
 
     try:
-        items = json.loads(content)
-        if isinstance(items, list):
-            return items, input_tokens, output_tokens, elapsed
-        # Occasionally the model wraps the array in an object like {"items": [...]}
-        if isinstance(items, dict):
-            for v in items.values():
+        parsed = json.loads(content)
+        # Expected format: {"is_good_example": bool, "items": [...]}
+        if isinstance(parsed, dict) and "items" in parsed and isinstance(parsed["items"], list):
+            return parsed, input_tokens, output_tokens, elapsed
+        # Fallback: model returned a bare list (old format)
+        if isinstance(parsed, list):
+            return {"is_good_example": True, "items": parsed}, input_tokens, output_tokens, elapsed
+        # Fallback: dict with a different key holding the list
+        if isinstance(parsed, dict):
+            for v in parsed.values():
                 if isinstance(v, list):
-                    return v, input_tokens, output_tokens, elapsed
+                    return {
+                        "is_good_example": parsed.get("is_good_example", True),
+                        "items": v,
+                    }, input_tokens, output_tokens, elapsed
     except json.JSONDecodeError:
         pass
 
@@ -209,9 +241,10 @@ def classify_with_model(image_source: str, model: str = "gpt-4o") -> tuple:
     return content, input_tokens, output_tokens, elapsed
 
 
-def identify_clothing(image_source: str) -> str:
+def identify_clothing(image_source: str):
     # Thin wrapper around classify_with_model kept for backwards compatibility —
-    # process_apify_export.py calls this and doesn't need token counts or timing
+    # process_apify_export.py calls this and doesn't need token counts or timing.
+    # Returns either "no clothing detected" or a dict with "is_good_example" and "items".
     result, _, _, _ = classify_with_model(image_source)
     return result
 
@@ -224,7 +257,7 @@ def main():
     image_url = sys.argv[1]
     result = identify_clothing(image_url)
 
-    if isinstance(result, list):
+    if isinstance(result, dict):
         print(json.dumps(result, indent=2))
     else:
         print(result)

@@ -73,3 +73,13 @@ logs/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
+
+# Pipeline data files
+apify_export.json
+clothing_results.json
+trends_summary.json
+outfit_combinations.json
+model_comparison.json
+
+# Temp/lock files
+~$Trendify Influencer List.xlsx
