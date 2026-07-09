@@ -207,13 +207,13 @@ export default function Home() {
           <h1 className="font-serif text-5xl md:text-6xl font-semibold tracking-tight text-[#f0ece6]">
             Trendify
           </h1>
-          <span className="hidden sm:block text-zinc-600 text-sm font-mono tracking-widest uppercase self-end pb-1">
+          <span className="hidden sm:block text-zinc-600 text-base font-mono tracking-widest uppercase self-end pb-1">
             Fashion Intelligence
           </span>
         </div>
 
         {data ? (
-          <div className="flex flex-wrap gap-x-6 gap-y-1 text-sm text-zinc-500 font-mono">
+          <div className="flex flex-wrap gap-x-6 gap-y-1 text-base text-zinc-500 font-mono">
             <span>
               <span className="text-zinc-300 font-semibold tabular-nums">
                 {data.total_posts_analysed}

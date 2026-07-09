@@ -29,6 +29,13 @@ function getPairsForCategory(category: string, pairs: OutfitPair[]): OutfitPair[
     .slice(0, 5);
 }
 
+function getWornWith(garmentType: string, pairs: OutfitPair[]): OutfitPair[] {
+  const key = garmentType.toLowerCase().trim();
+  return pairs
+    .filter((p) => p.garment_a === key || p.garment_b === key)
+    .slice(0, 3);
+}
+
 export default function TrendView({ sections, velocityMap, seasonMap, outfitPairs }: TrendViewProps) {
   const [filter, setFilter] = useState<SeasonFilter>("all");
 
@@ -52,7 +59,7 @@ export default function TrendView({ sections, velocityMap, seasonMap, outfitPair
           <button
             key={f}
             onClick={() => setFilter(f)}
-            className={`px-4 py-1.5 text-xs font-mono uppercase tracking-widest border transition-colors duration-200 ${
+            className={`px-4 py-1.5 text-sm font-mono uppercase tracking-widest border transition-colors duration-200 ${
               filter === f
                 ? "border-[#f0ece6] text-[#f0ece6] bg-white/[0.04]"
                 : "border-zinc-800 text-zinc-600 hover:border-zinc-600 hover:text-zinc-400"
@@ -75,7 +82,7 @@ export default function TrendView({ sections, velocityMap, seasonMap, outfitPair
                   {category}
                 </h2>
                 <div className="h-px bg-white/[0.08] flex-1" />
-                <span className="text-[10px] font-mono text-zinc-600 shrink-0 tabular-nums">
+                <span className="text-xs font-mono text-zinc-600 shrink-0 tabular-nums">
                   {trends.length}{" "}
                   {trends.length === 1 ? "type" : "types"}
                 </span>
@@ -83,17 +90,22 @@ export default function TrendView({ sections, velocityMap, seasonMap, outfitPair
 
               {/* Cards grid */}
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-px bg-white/[0.04]">
-                {trends.map((trend, i) => (
-                  <TrendCard
-                    key={trend.garment_type}
-                    trend={trend}
-                    rank={i + 1}
-                    velocity={velocityMap[trend.garment_type.toLowerCase().trim()]}
-                  />
-                ))}
+                {trends.map((trend, i) => {
+                  const key = trend.garment_type.toLowerCase().trim();
+                  return (
+                    <TrendCard
+                      key={trend.garment_type}
+                      trend={trend}
+                      rank={i + 1}
+                      velocity={velocityMap[key]}
+                      season={seasonMap[key]}
+                      wornWith={getWornWith(trend.garment_type, outfitPairs)}
+                    />
+                  );
+                })}
               </div>
 
-              {/* Worn Together */}
+              {/* Worn Together (category-level) */}
               <OutfitPairings pairs={getPairsForCategory(category, outfitPairs)} />
 
             </section>

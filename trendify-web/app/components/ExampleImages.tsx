@@ -37,7 +37,16 @@ function ChevronRight() {
   );
 }
 
-export default function ExampleImages({ images }: { images: ExampleImage[] }) {
+interface ExampleImagesProps {
+  images: ExampleImage[];
+  /** Override the outer container class — useful when embedding in a modal */
+  containerClassName?: string;
+}
+
+export default function ExampleImages({
+  images,
+  containerClassName = "relative aspect-[3/4] bg-zinc-900 group overflow-hidden",
+}: ExampleImagesProps) {
   const [index, setIndex] = useState(0);
   const [failedSet, setFailedSet] = useState<Set<number>>(new Set());
 
@@ -48,13 +57,20 @@ export default function ExampleImages({ images }: { images: ExampleImage[] }) {
   const canPrev = index > 0;
   const canNext = index < images.length - 1;
 
-  const prev = () => setIndex((i) => Math.max(0, i - 1));
-  const next = () => setIndex((i) => Math.min(images.length - 1, i + 1));
+  // stopPropagation so nav clicks don't bubble up to a parent card onClick
+  const prev = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setIndex((i) => Math.max(0, i - 1));
+  };
+  const next = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    setIndex((i) => Math.min(images.length - 1, i + 1));
+  };
   const markFailed = () =>
     setFailedSet((prev) => new Set([...prev, index]));
 
   return (
-    <div className="relative aspect-[3/4] bg-zinc-900 group overflow-hidden">
+    <div className={containerClassName}>
 
       {/* Image or fallback placeholder */}
       {hasFailed ? (

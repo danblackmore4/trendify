@@ -19,8 +19,8 @@ export default function ColourStory({ colours }: { colours: WeeklyColour[] }) {
               className="w-full aspect-square rounded-sm border border-white/[0.06]"
               style={{ backgroundColor: c.hex }}
             />
-            <p className="text-sm text-zinc-300 capitalize mt-3 leading-snug">{c.colour}</p>
-            <p className="text-[11px] text-zinc-600 font-mono mt-0.5 tabular-nums">
+            <p className="text-base text-zinc-300 capitalize mt-3 leading-snug">{c.colour}</p>
+            <p className="text-sm text-zinc-600 font-mono mt-0.5 tabular-nums">
               {c.count} {c.count === 1 ? "item" : "items"}
             </p>
           </div>
